@@ -15,10 +15,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/d7125783-88ef-45e2-a53e-67a0e4c7c23d/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/d7125783-88ef-45e2-a53e-67a0e4c7c23d/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/d7125783-88ef-45e2-a53e-67a0e4c7c23d",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/d7125783-88ef-45e2-a53e-67a0e4c7c23d",
     "type": "ImageService2"
     }
     ],
@@ -112,10 +112,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/7c47e698-32e0-46be-9726-81ab70eb8d9a/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/7c47e698-32e0-46be-9726-81ab70eb8d9a/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/7c47e698-32e0-46be-9726-81ab70eb8d9a",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/7c47e698-32e0-46be-9726-81ab70eb8d9a",
     "type": "ImageService2"
     }
     ],
@@ -209,10 +209,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/1d524592-10f5-46d4-bf6a-76a6eef229d2/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/1d524592-10f5-46d4-bf6a-76a6eef229d2/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/1d524592-10f5-46d4-bf6a-76a6eef229d2",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/1d524592-10f5-46d4-bf6a-76a6eef229d2",
     "type": "ImageService2"
     }
     ],
@@ -306,10 +306,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/7fc0839c-c060-4873-872a-4bf0eced57b0/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/7fc0839c-c060-4873-872a-4bf0eced57b0/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/7fc0839c-c060-4873-872a-4bf0eced57b0",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/7fc0839c-c060-4873-872a-4bf0eced57b0",
     "type": "ImageService2"
     }
     ],
@@ -403,10 +403,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/91ed2af4-bfdc-40b8-9977-a7d7ddbc5533/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/91ed2af4-bfdc-40b8-9977-a7d7ddbc5533/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/91ed2af4-bfdc-40b8-9977-a7d7ddbc5533",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/91ed2af4-bfdc-40b8-9977-a7d7ddbc5533",
     "type": "ImageService2"
     }
     ],
@@ -500,10 +500,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/f52c523f-aba7-4481-9f7c-d60da4dd379b/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/f52c523f-aba7-4481-9f7c-d60da4dd379b/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/f52c523f-aba7-4481-9f7c-d60da4dd379b",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/f52c523f-aba7-4481-9f7c-d60da4dd379b",
     "type": "ImageService2"
     }
     ],
@@ -597,10 +597,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/fec58bf2-05aa-4a56-9d34-7a98c05b84ff/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/fec58bf2-05aa-4a56-9d34-7a98c05b84ff/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/fec58bf2-05aa-4a56-9d34-7a98c05b84ff",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/fec58bf2-05aa-4a56-9d34-7a98c05b84ff",
     "type": "ImageService2"
     }
     ],
@@ -694,10 +694,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/7b8f5c35-142a-46a9-9b0a-7bf9323f56b7/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/7b8f5c35-142a-46a9-9b0a-7bf9323f56b7/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/7b8f5c35-142a-46a9-9b0a-7bf9323f56b7",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/7b8f5c35-142a-46a9-9b0a-7bf9323f56b7",
     "type": "ImageService2"
     }
     ],
@@ -791,10 +791,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/e06ae3e4-b48f-4c76-b25d-ac527f2ee09e/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/e06ae3e4-b48f-4c76-b25d-ac527f2ee09e/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/e06ae3e4-b48f-4c76-b25d-ac527f2ee09e",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/e06ae3e4-b48f-4c76-b25d-ac527f2ee09e",
     "type": "ImageService2"
     }
     ],
@@ -888,10 +888,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/a22e892c-694e-4bdf-a690-4396f5be470f/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/a22e892c-694e-4bdf-a690-4396f5be470f/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/a22e892c-694e-4bdf-a690-4396f5be470f",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/a22e892c-694e-4bdf-a690-4396f5be470f",
     "type": "ImageService2"
     }
     ],
@@ -985,10 +985,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/a548a062-88b1-4c3b-a707-2078c28891f1/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/a548a062-88b1-4c3b-a707-2078c28891f1/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/a548a062-88b1-4c3b-a707-2078c28891f1",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/a548a062-88b1-4c3b-a707-2078c28891f1",
     "type": "ImageService2"
     }
     ],
@@ -1082,10 +1082,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/4467d0d5-ccf8-4e68-a1c2-2f6b113cbbc0/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/4467d0d5-ccf8-4e68-a1c2-2f6b113cbbc0/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/4467d0d5-ccf8-4e68-a1c2-2f6b113cbbc0",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/4467d0d5-ccf8-4e68-a1c2-2f6b113cbbc0",
     "type": "ImageService2"
     }
     ],
@@ -1179,10 +1179,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/3b6abf06-74ae-48e4-95e6-2066ba27eaff/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/3b6abf06-74ae-48e4-95e6-2066ba27eaff/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/3b6abf06-74ae-48e4-95e6-2066ba27eaff",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/3b6abf06-74ae-48e4-95e6-2066ba27eaff",
     "type": "ImageService2"
     }
     ],
@@ -1276,10 +1276,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/bd619c80-3239-4255-aa55-2cf7513c6ee0/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/bd619c80-3239-4255-aa55-2cf7513c6ee0/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/bd619c80-3239-4255-aa55-2cf7513c6ee0",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/bd619c80-3239-4255-aa55-2cf7513c6ee0",
     "type": "ImageService2"
     }
     ],
@@ -1373,10 +1373,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/f5594c59-843c-4a2f-bf2f-28f8c43e5c92/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/f5594c59-843c-4a2f-bf2f-28f8c43e5c92/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/f5594c59-843c-4a2f-bf2f-28f8c43e5c92",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/f5594c59-843c-4a2f-bf2f-28f8c43e5c92",
     "type": "ImageService2"
     }
     ],
@@ -1470,10 +1470,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/87389757-d453-4cba-b6d1-a6459615cf05/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/87389757-d453-4cba-b6d1-a6459615cf05/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/87389757-d453-4cba-b6d1-a6459615cf05",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/87389757-d453-4cba-b6d1-a6459615cf05",
     "type": "ImageService2"
     }
     ],
@@ -1567,10 +1567,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/922499c7-f2ac-4b9f-8d25-6529d8767530/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/922499c7-f2ac-4b9f-8d25-6529d8767530/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/922499c7-f2ac-4b9f-8d25-6529d8767530",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/922499c7-f2ac-4b9f-8d25-6529d8767530",
     "type": "ImageService2"
     }
     ],
@@ -1664,10 +1664,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/33180574-9b9e-42ba-b8c3-438d340d591a/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/33180574-9b9e-42ba-b8c3-438d340d591a/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/33180574-9b9e-42ba-b8c3-438d340d591a",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/33180574-9b9e-42ba-b8c3-438d340d591a",
     "type": "ImageService2"
     }
     ],
@@ -1761,10 +1761,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/7fd2151d-293c-4bbc-9d8d-35d2e74ed8f6/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/7fd2151d-293c-4bbc-9d8d-35d2e74ed8f6/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/7fd2151d-293c-4bbc-9d8d-35d2e74ed8f6",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/7fd2151d-293c-4bbc-9d8d-35d2e74ed8f6",
     "type": "ImageService2"
     }
     ],
@@ -1858,10 +1858,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/dd660734-7b28-494f-a6ba-270e05a2af22/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/dd660734-7b28-494f-a6ba-270e05a2af22/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/dd660734-7b28-494f-a6ba-270e05a2af22",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/dd660734-7b28-494f-a6ba-270e05a2af22",
     "type": "ImageService2"
     }
     ],
@@ -1955,10 +1955,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/6b2b3ecc-da35-4305-a7b9-9f6bd370cd51/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/6b2b3ecc-da35-4305-a7b9-9f6bd370cd51/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/6b2b3ecc-da35-4305-a7b9-9f6bd370cd51",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/6b2b3ecc-da35-4305-a7b9-9f6bd370cd51",
     "type": "ImageService2"
     }
     ],
@@ -2052,10 +2052,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/956c803b-e77c-4fd2-9deb-c1a2766e28fc/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/956c803b-e77c-4fd2-9deb-c1a2766e28fc/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/956c803b-e77c-4fd2-9deb-c1a2766e28fc",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/956c803b-e77c-4fd2-9deb-c1a2766e28fc",
     "type": "ImageService2"
     }
     ],
@@ -2149,10 +2149,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/6d2c7e34-2ce8-42dd-a603-3b71af311b23/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/6d2c7e34-2ce8-42dd-a603-3b71af311b23/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/6d2c7e34-2ce8-42dd-a603-3b71af311b23",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/6d2c7e34-2ce8-42dd-a603-3b71af311b23",
     "type": "ImageService2"
     }
     ],
@@ -2246,10 +2246,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/0d03ad7d-50a9-4e37-b7b4-5f7b058d4964/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/0d03ad7d-50a9-4e37-b7b4-5f7b058d4964/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/0d03ad7d-50a9-4e37-b7b4-5f7b058d4964",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/0d03ad7d-50a9-4e37-b7b4-5f7b058d4964",
     "type": "ImageService2"
     }
     ],
@@ -2343,10 +2343,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/3554f2e6-de5a-4d93-a1f0-ddd77b9ebf0f/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/3554f2e6-de5a-4d93-a1f0-ddd77b9ebf0f/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/3554f2e6-de5a-4d93-a1f0-ddd77b9ebf0f",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/3554f2e6-de5a-4d93-a1f0-ddd77b9ebf0f",
     "type": "ImageService2"
     }
     ],
@@ -2440,10 +2440,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/5b90666a-8e76-4ae5-986c-a3f7b368f642/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/5b90666a-8e76-4ae5-986c-a3f7b368f642/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/5b90666a-8e76-4ae5-986c-a3f7b368f642",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/5b90666a-8e76-4ae5-986c-a3f7b368f642",
     "type": "ImageService2"
     }
     ],
@@ -2537,10 +2537,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/3b8289ed-4775-4aca-80a4-23f44a5e2aa1/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/3b8289ed-4775-4aca-80a4-23f44a5e2aa1/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/3b8289ed-4775-4aca-80a4-23f44a5e2aa1",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/3b8289ed-4775-4aca-80a4-23f44a5e2aa1",
     "type": "ImageService2"
     }
     ],
@@ -2634,10 +2634,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/a430445c-8348-4c10-9d45-c48551e58f9b/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/a430445c-8348-4c10-9d45-c48551e58f9b/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/a430445c-8348-4c10-9d45-c48551e58f9b",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/a430445c-8348-4c10-9d45-c48551e58f9b",
     "type": "ImageService2"
     }
     ],
@@ -2731,10 +2731,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/44add7fd-0411-4880-950a-a133f53854ae/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/44add7fd-0411-4880-950a-a133f53854ae/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/44add7fd-0411-4880-950a-a133f53854ae",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/44add7fd-0411-4880-950a-a133f53854ae",
     "type": "ImageService2"
     }
     ],
@@ -2828,10 +2828,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/d7908df3-39ec-4259-b616-bdaee0455b79/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/d7908df3-39ec-4259-b616-bdaee0455b79/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/d7908df3-39ec-4259-b616-bdaee0455b79",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/d7908df3-39ec-4259-b616-bdaee0455b79",
     "type": "ImageService2"
     }
     ],
@@ -2925,10 +2925,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/ae676d74-e62a-4862-a610-180ef98f51c2/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/ae676d74-e62a-4862-a610-180ef98f51c2/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/ae676d74-e62a-4862-a610-180ef98f51c2",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/ae676d74-e62a-4862-a610-180ef98f51c2",
     "type": "ImageService2"
     }
     ],
@@ -3022,10 +3022,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/5748809a-8990-40f1-887b-95f5e06405af/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/5748809a-8990-40f1-887b-95f5e06405af/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/5748809a-8990-40f1-887b-95f5e06405af",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/5748809a-8990-40f1-887b-95f5e06405af",
     "type": "ImageService2"
     }
     ],
@@ -3119,10 +3119,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/3dd95412-5c6e-4f96-ab35-45f8bd9dc467/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/3dd95412-5c6e-4f96-ab35-45f8bd9dc467/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/3dd95412-5c6e-4f96-ab35-45f8bd9dc467",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/3dd95412-5c6e-4f96-ab35-45f8bd9dc467",
     "type": "ImageService2"
     }
     ],
@@ -3216,10 +3216,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/231c4f1d-1fe1-4b7b-a245-78588596790b/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/231c4f1d-1fe1-4b7b-a245-78588596790b/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/231c4f1d-1fe1-4b7b-a245-78588596790b",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/231c4f1d-1fe1-4b7b-a245-78588596790b",
     "type": "ImageService2"
     }
     ],
@@ -3313,10 +3313,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/b3f43058-32f6-45f8-aec3-e39546d742e6/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/b3f43058-32f6-45f8-aec3-e39546d742e6/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/b3f43058-32f6-45f8-aec3-e39546d742e6",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/b3f43058-32f6-45f8-aec3-e39546d742e6",
     "type": "ImageService2"
     }
     ],
@@ -3410,10 +3410,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/fe9776e9-2687-428a-9251-9dc0cfda1c9c/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/fe9776e9-2687-428a-9251-9dc0cfda1c9c/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/fe9776e9-2687-428a-9251-9dc0cfda1c9c",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/fe9776e9-2687-428a-9251-9dc0cfda1c9c",
     "type": "ImageService2"
     }
     ],
@@ -3507,10 +3507,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/f948ebb9-1c92-47a0-9813-d417f51e1e49/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/f948ebb9-1c92-47a0-9813-d417f51e1e49/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/f948ebb9-1c92-47a0-9813-d417f51e1e49",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/f948ebb9-1c92-47a0-9813-d417f51e1e49",
     "type": "ImageService2"
     }
     ],
@@ -3604,10 +3604,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/a57386f0-6c4e-4f0d-af99-7507fe663cab/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/a57386f0-6c4e-4f0d-af99-7507fe663cab/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/a57386f0-6c4e-4f0d-af99-7507fe663cab",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/a57386f0-6c4e-4f0d-af99-7507fe663cab",
     "type": "ImageService2"
     }
     ],
@@ -3701,10 +3701,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/1b840522-3465-4520-8ad0-edf1440b63f5/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/1b840522-3465-4520-8ad0-edf1440b63f5/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/1b840522-3465-4520-8ad0-edf1440b63f5",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/1b840522-3465-4520-8ad0-edf1440b63f5",
     "type": "ImageService2"
     }
     ],
@@ -3798,10 +3798,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/bda84868-6b84-4ebd-bb60-2b7254c66ecd/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/bda84868-6b84-4ebd-bb60-2b7254c66ecd/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/bda84868-6b84-4ebd-bb60-2b7254c66ecd",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/bda84868-6b84-4ebd-bb60-2b7254c66ecd",
     "type": "ImageService2"
     }
     ],
@@ -3895,10 +3895,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/461eabbc-bdb5-4a76-b7a7-0bfafd4934cd/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/461eabbc-bdb5-4a76-b7a7-0bfafd4934cd/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/461eabbc-bdb5-4a76-b7a7-0bfafd4934cd",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/461eabbc-bdb5-4a76-b7a7-0bfafd4934cd",
     "type": "ImageService2"
     }
     ],
@@ -3992,10 +3992,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/8d263244-f82a-4f4e-96cc-55de9b32109a/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/8d263244-f82a-4f4e-96cc-55de9b32109a/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/8d263244-f82a-4f4e-96cc-55de9b32109a",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/8d263244-f82a-4f4e-96cc-55de9b32109a",
     "type": "ImageService2"
     }
     ],
@@ -4089,10 +4089,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/4d2f8089-bdb5-42b8-a9c1-c40699a937f2/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/4d2f8089-bdb5-42b8-a9c1-c40699a937f2/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/4d2f8089-bdb5-42b8-a9c1-c40699a937f2",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/4d2f8089-bdb5-42b8-a9c1-c40699a937f2",
     "type": "ImageService2"
     }
     ],
@@ -4186,10 +4186,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/295a800b-4b1a-482e-9966-50828b435092/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/295a800b-4b1a-482e-9966-50828b435092/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/295a800b-4b1a-482e-9966-50828b435092",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/295a800b-4b1a-482e-9966-50828b435092",
     "type": "ImageService2"
     }
     ],
@@ -4283,10 +4283,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/8828b44d-3748-4726-8704-1ef951c508bf/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/8828b44d-3748-4726-8704-1ef951c508bf/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/8828b44d-3748-4726-8704-1ef951c508bf",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/8828b44d-3748-4726-8704-1ef951c508bf",
     "type": "ImageService2"
     }
     ],
@@ -4380,10 +4380,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/2fa26c23-ebe7-46fd-bd5e-103dfc9c5c6e/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/2fa26c23-ebe7-46fd-bd5e-103dfc9c5c6e/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/2fa26c23-ebe7-46fd-bd5e-103dfc9c5c6e",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/2fa26c23-ebe7-46fd-bd5e-103dfc9c5c6e",
     "type": "ImageService2"
     }
     ],
@@ -4477,10 +4477,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/c268c74a-8caa-49c6-be74-ea46f96053c6/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/c268c74a-8caa-49c6-be74-ea46f96053c6/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/c268c74a-8caa-49c6-be74-ea46f96053c6",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/c268c74a-8caa-49c6-be74-ea46f96053c6",
     "type": "ImageService2"
     }
     ],
@@ -4574,10 +4574,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/ea373203-658a-4a86-8d44-1b3f04abb33f/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/ea373203-658a-4a86-8d44-1b3f04abb33f/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/ea373203-658a-4a86-8d44-1b3f04abb33f",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/ea373203-658a-4a86-8d44-1b3f04abb33f",
     "type": "ImageService2"
     }
     ],
@@ -4671,10 +4671,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/bf72a01c-f677-447e-9909-3a52cd93fa61/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/bf72a01c-f677-447e-9909-3a52cd93fa61/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/bf72a01c-f677-447e-9909-3a52cd93fa61",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/bf72a01c-f677-447e-9909-3a52cd93fa61",
     "type": "ImageService2"
     }
     ],
@@ -4768,10 +4768,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/c130e5b9-a6e2-4071-ab88-fb2cdcde28ed/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/c130e5b9-a6e2-4071-ab88-fb2cdcde28ed/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/c130e5b9-a6e2-4071-ab88-fb2cdcde28ed",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/c130e5b9-a6e2-4071-ab88-fb2cdcde28ed",
     "type": "ImageService2"
     }
     ],
@@ -4865,10 +4865,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/0b61ff54-bec0-4297-b507-9b8c2a53aeb3/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/0b61ff54-bec0-4297-b507-9b8c2a53aeb3/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/0b61ff54-bec0-4297-b507-9b8c2a53aeb3",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/0b61ff54-bec0-4297-b507-9b8c2a53aeb3",
     "type": "ImageService2"
     }
     ],
@@ -4962,10 +4962,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/b4d0d18d-d55c-4d5a-9f7e-2ffff70e0812/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/b4d0d18d-d55c-4d5a-9f7e-2ffff70e0812/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/b4d0d18d-d55c-4d5a-9f7e-2ffff70e0812",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/b4d0d18d-d55c-4d5a-9f7e-2ffff70e0812",
     "type": "ImageService2"
     }
     ],
@@ -5059,10 +5059,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/4a6012ad-53b0-4704-95f6-09d473523d21/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/4a6012ad-53b0-4704-95f6-09d473523d21/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/4a6012ad-53b0-4704-95f6-09d473523d21",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/4a6012ad-53b0-4704-95f6-09d473523d21",
     "type": "ImageService2"
     }
     ],
@@ -5156,10 +5156,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/5d341ec5-8bea-4a3c-92c1-841bbaae29b1/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/5d341ec5-8bea-4a3c-92c1-841bbaae29b1/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/5d341ec5-8bea-4a3c-92c1-841bbaae29b1",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/5d341ec5-8bea-4a3c-92c1-841bbaae29b1",
     "type": "ImageService2"
     }
     ],
@@ -5253,10 +5253,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/0e92888f-4c6a-4f7a-9d2a-807025e2db47/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/0e92888f-4c6a-4f7a-9d2a-807025e2db47/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/0e92888f-4c6a-4f7a-9d2a-807025e2db47",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/0e92888f-4c6a-4f7a-9d2a-807025e2db47",
     "type": "ImageService2"
     }
     ],
@@ -5350,10 +5350,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/bfb1710b-236d-45cb-a7b7-302768a653e1/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/bfb1710b-236d-45cb-a7b7-302768a653e1/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/bfb1710b-236d-45cb-a7b7-302768a653e1",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/bfb1710b-236d-45cb-a7b7-302768a653e1",
     "type": "ImageService2"
     }
     ],
@@ -5447,10 +5447,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/eb2701cf-ccd5-4f07-a0bb-a49074f3d843/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/eb2701cf-ccd5-4f07-a0bb-a49074f3d843/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/eb2701cf-ccd5-4f07-a0bb-a49074f3d843",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/eb2701cf-ccd5-4f07-a0bb-a49074f3d843",
     "type": "ImageService2"
     }
     ],
@@ -5544,10 +5544,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/7f4585bf-883e-4c3f-857c-8f58530ab9f1/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/7f4585bf-883e-4c3f-857c-8f58530ab9f1/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/7f4585bf-883e-4c3f-857c-8f58530ab9f1",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/7f4585bf-883e-4c3f-857c-8f58530ab9f1",
     "type": "ImageService2"
     }
     ],
@@ -5641,10 +5641,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/d7b205a8-1be4-450d-8ef0-050aecedbcbe/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/d7b205a8-1be4-450d-8ef0-050aecedbcbe/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/d7b205a8-1be4-450d-8ef0-050aecedbcbe",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/d7b205a8-1be4-450d-8ef0-050aecedbcbe",
     "type": "ImageService2"
     }
     ],
@@ -5738,10 +5738,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/eb4a684f-7546-4bd7-b71f-ee262c0139e2/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/eb4a684f-7546-4bd7-b71f-ee262c0139e2/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/eb4a684f-7546-4bd7-b71f-ee262c0139e2",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/eb4a684f-7546-4bd7-b71f-ee262c0139e2",
     "type": "ImageService2"
     }
     ],
@@ -5835,10 +5835,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/9d8d5ce2-7d19-46ea-9416-9a612adbbdf7/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/9d8d5ce2-7d19-46ea-9416-9a612adbbdf7/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/9d8d5ce2-7d19-46ea-9416-9a612adbbdf7",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/9d8d5ce2-7d19-46ea-9416-9a612adbbdf7",
     "type": "ImageService2"
     }
     ],
@@ -5932,10 +5932,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/0c33e9ab-0c08-4606-9d78-c917b1d4822c/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/0c33e9ab-0c08-4606-9d78-c917b1d4822c/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/0c33e9ab-0c08-4606-9d78-c917b1d4822c",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/0c33e9ab-0c08-4606-9d78-c917b1d4822c",
     "type": "ImageService2"
     }
     ],
@@ -6029,10 +6029,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/1d982c00-b8b9-4923-b2ea-8e2b47e6fd4f/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/1d982c00-b8b9-4923-b2ea-8e2b47e6fd4f/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/1d982c00-b8b9-4923-b2ea-8e2b47e6fd4f",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/1d982c00-b8b9-4923-b2ea-8e2b47e6fd4f",
     "type": "ImageService2"
     }
     ],
@@ -6126,10 +6126,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/3e48e740-b5a3-4926-80ec-a8aabe75dcf9/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/3e48e740-b5a3-4926-80ec-a8aabe75dcf9/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/3e48e740-b5a3-4926-80ec-a8aabe75dcf9",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/3e48e740-b5a3-4926-80ec-a8aabe75dcf9",
     "type": "ImageService2"
     }
     ],
@@ -6223,10 +6223,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/b8bec0c6-de57-4572-abaf-b61db7af7865/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/b8bec0c6-de57-4572-abaf-b61db7af7865/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/b8bec0c6-de57-4572-abaf-b61db7af7865",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/b8bec0c6-de57-4572-abaf-b61db7af7865",
     "type": "ImageService2"
     }
     ],
@@ -6320,10 +6320,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/9e634c37-8572-4b9c-b3f0-21051086155f/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/9e634c37-8572-4b9c-b3f0-21051086155f/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/9e634c37-8572-4b9c-b3f0-21051086155f",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/9e634c37-8572-4b9c-b3f0-21051086155f",
     "type": "ImageService2"
     }
     ],
@@ -6417,10 +6417,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/a61c8f6f-2c6e-4ef6-8edf-e02ad2966fe8/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/a61c8f6f-2c6e-4ef6-8edf-e02ad2966fe8/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/a61c8f6f-2c6e-4ef6-8edf-e02ad2966fe8",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/a61c8f6f-2c6e-4ef6-8edf-e02ad2966fe8",
     "type": "ImageService2"
     }
     ],
@@ -6514,10 +6514,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/329e0cbf-51dd-4869-bf79-de61a76311d7/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/329e0cbf-51dd-4869-bf79-de61a76311d7/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/329e0cbf-51dd-4869-bf79-de61a76311d7",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/329e0cbf-51dd-4869-bf79-de61a76311d7",
     "type": "ImageService2"
     }
     ],
@@ -6611,10 +6611,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/b896c380-d630-4ecc-9df2-6cd3067d1024/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/b896c380-d630-4ecc-9df2-6cd3067d1024/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/b896c380-d630-4ecc-9df2-6cd3067d1024",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/b896c380-d630-4ecc-9df2-6cd3067d1024",
     "type": "ImageService2"
     }
     ],
@@ -6708,10 +6708,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/f3726a17-cf7c-4a3e-a14f-7de150aa34ad/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/f3726a17-cf7c-4a3e-a14f-7de150aa34ad/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/f3726a17-cf7c-4a3e-a14f-7de150aa34ad",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/f3726a17-cf7c-4a3e-a14f-7de150aa34ad",
     "type": "ImageService2"
     }
     ],
@@ -6805,10 +6805,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/a9d73704-4502-4d78-b764-0ba78735b862/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/a9d73704-4502-4d78-b764-0ba78735b862/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/a9d73704-4502-4d78-b764-0ba78735b862",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/a9d73704-4502-4d78-b764-0ba78735b862",
     "type": "ImageService2"
     }
     ],
@@ -6902,10 +6902,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/3109b7d1-25e9-41a7-8e4a-7c329f1ad9e8/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/3109b7d1-25e9-41a7-8e4a-7c329f1ad9e8/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/3109b7d1-25e9-41a7-8e4a-7c329f1ad9e8",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/3109b7d1-25e9-41a7-8e4a-7c329f1ad9e8",
     "type": "ImageService2"
     }
     ],
@@ -6999,10 +6999,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/0b080615-5258-4d5a-b609-d623d116a79c/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/0b080615-5258-4d5a-b609-d623d116a79c/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/0b080615-5258-4d5a-b609-d623d116a79c",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/0b080615-5258-4d5a-b609-d623d116a79c",
     "type": "ImageService2"
     }
     ],
@@ -7096,10 +7096,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/2eb85d43-9058-4f35-9c34-fc4133a6bdbc/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/2eb85d43-9058-4f35-9c34-fc4133a6bdbc/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/2eb85d43-9058-4f35-9c34-fc4133a6bdbc",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/2eb85d43-9058-4f35-9c34-fc4133a6bdbc",
     "type": "ImageService2"
     }
     ],
@@ -7193,10 +7193,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/313af3c4-fc35-406e-a20f-361457a39783/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/313af3c4-fc35-406e-a20f-361457a39783/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/313af3c4-fc35-406e-a20f-361457a39783",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/313af3c4-fc35-406e-a20f-361457a39783",
     "type": "ImageService2"
     }
     ],
@@ -7290,10 +7290,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/8cedcd39-b456-4a55-ba3f-57d7c653f0fc/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/8cedcd39-b456-4a55-ba3f-57d7c653f0fc/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/8cedcd39-b456-4a55-ba3f-57d7c653f0fc",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/8cedcd39-b456-4a55-ba3f-57d7c653f0fc",
     "type": "ImageService2"
     }
     ],
@@ -7387,10 +7387,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/0d5d363c-5c45-46bd-bb62-50cf251f71d6/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/0d5d363c-5c45-46bd-bb62-50cf251f71d6/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/0d5d363c-5c45-46bd-bb62-50cf251f71d6",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/0d5d363c-5c45-46bd-bb62-50cf251f71d6",
     "type": "ImageService2"
     }
     ],
@@ -7484,10 +7484,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/1836812d-eb3c-407a-b0cc-05b9d152d272/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/1836812d-eb3c-407a-b0cc-05b9d152d272/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/1836812d-eb3c-407a-b0cc-05b9d152d272",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/1836812d-eb3c-407a-b0cc-05b9d152d272",
     "type": "ImageService2"
     }
     ],
@@ -7581,10 +7581,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/dd37718c-3297-4cbf-b1ba-f9ae59b505c5/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/dd37718c-3297-4cbf-b1ba-f9ae59b505c5/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/dd37718c-3297-4cbf-b1ba-f9ae59b505c5",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/dd37718c-3297-4cbf-b1ba-f9ae59b505c5",
     "type": "ImageService2"
     }
     ],
@@ -7678,10 +7678,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/ab38efd4-f905-4f58-9b77-9d4159b904fc/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/ab38efd4-f905-4f58-9b77-9d4159b904fc/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/ab38efd4-f905-4f58-9b77-9d4159b904fc",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/ab38efd4-f905-4f58-9b77-9d4159b904fc",
     "type": "ImageService2"
     }
     ],
@@ -7775,10 +7775,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/4a4c1355-bea1-4d92-a87f-1314d2da807f/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/4a4c1355-bea1-4d92-a87f-1314d2da807f/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/4a4c1355-bea1-4d92-a87f-1314d2da807f",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/4a4c1355-bea1-4d92-a87f-1314d2da807f",
     "type": "ImageService2"
     }
     ],
@@ -7872,10 +7872,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/53a8dc01-86a4-4d47-8504-ff31b386fd4e/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/53a8dc01-86a4-4d47-8504-ff31b386fd4e/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/53a8dc01-86a4-4d47-8504-ff31b386fd4e",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/53a8dc01-86a4-4d47-8504-ff31b386fd4e",
     "type": "ImageService2"
     }
     ],
@@ -7969,10 +7969,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/c6e706fe-7255-4caf-bb5f-c1107cbd0b54/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/c6e706fe-7255-4caf-bb5f-c1107cbd0b54/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/c6e706fe-7255-4caf-bb5f-c1107cbd0b54",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/c6e706fe-7255-4caf-bb5f-c1107cbd0b54",
     "type": "ImageService2"
     }
     ],
@@ -8066,10 +8066,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/216b2a67-0531-42d9-836f-160e2fe98f17/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/216b2a67-0531-42d9-836f-160e2fe98f17/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/216b2a67-0531-42d9-836f-160e2fe98f17",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/216b2a67-0531-42d9-836f-160e2fe98f17",
     "type": "ImageService2"
     }
     ],
@@ -8163,10 +8163,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/3391ce66-1ca6-4656-a344-24c1659d63f1/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/3391ce66-1ca6-4656-a344-24c1659d63f1/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/3391ce66-1ca6-4656-a344-24c1659d63f1",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/3391ce66-1ca6-4656-a344-24c1659d63f1",
     "type": "ImageService2"
     }
     ],
@@ -8260,10 +8260,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/34258255-69fc-40cf-9443-842cf5267157/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/34258255-69fc-40cf-9443-842cf5267157/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/34258255-69fc-40cf-9443-842cf5267157",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/34258255-69fc-40cf-9443-842cf5267157",
     "type": "ImageService2"
     }
     ],
@@ -8357,10 +8357,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/97bff8e4-a57d-45f4-b654-a3e9ba443642/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/97bff8e4-a57d-45f4-b654-a3e9ba443642/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/97bff8e4-a57d-45f4-b654-a3e9ba443642",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/97bff8e4-a57d-45f4-b654-a3e9ba443642",
     "type": "ImageService2"
     }
     ],
@@ -8454,10 +8454,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/518eb780-c1b7-4d29-bd3a-3fdaa8b4635f/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/518eb780-c1b7-4d29-bd3a-3fdaa8b4635f/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/518eb780-c1b7-4d29-bd3a-3fdaa8b4635f",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/518eb780-c1b7-4d29-bd3a-3fdaa8b4635f",
     "type": "ImageService2"
     }
     ],
@@ -8551,10 +8551,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/58062dd7-61b5-40f0-97f4-c8ce366080b7/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/58062dd7-61b5-40f0-97f4-c8ce366080b7/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/58062dd7-61b5-40f0-97f4-c8ce366080b7",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/58062dd7-61b5-40f0-97f4-c8ce366080b7",
     "type": "ImageService2"
     }
     ],
@@ -8648,10 +8648,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/c8c44bc7-2b8d-4eb5-84a7-f7fc1746cbbd/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/c8c44bc7-2b8d-4eb5-84a7-f7fc1746cbbd/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/c8c44bc7-2b8d-4eb5-84a7-f7fc1746cbbd",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/c8c44bc7-2b8d-4eb5-84a7-f7fc1746cbbd",
     "type": "ImageService2"
     }
     ],
@@ -8745,10 +8745,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/dcf71cab-2a82-4383-9c8c-d25e821387ed/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/dcf71cab-2a82-4383-9c8c-d25e821387ed/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/dcf71cab-2a82-4383-9c8c-d25e821387ed",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/dcf71cab-2a82-4383-9c8c-d25e821387ed",
     "type": "ImageService2"
     }
     ],
@@ -8842,10 +8842,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/1b603680-b20b-4179-b7b8-9e1526d705fe/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/1b603680-b20b-4179-b7b8-9e1526d705fe/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/1b603680-b20b-4179-b7b8-9e1526d705fe",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/1b603680-b20b-4179-b7b8-9e1526d705fe",
     "type": "ImageService2"
     }
     ],
@@ -8939,10 +8939,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/19f661f9-d24e-4ae1-b519-4b4ddba6261a/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/19f661f9-d24e-4ae1-b519-4b4ddba6261a/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/19f661f9-d24e-4ae1-b519-4b4ddba6261a",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/19f661f9-d24e-4ae1-b519-4b4ddba6261a",
     "type": "ImageService2"
     }
     ],
@@ -9036,10 +9036,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/7125c209-78a4-4261-906d-c5689943b0ad/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/7125c209-78a4-4261-906d-c5689943b0ad/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/7125c209-78a4-4261-906d-c5689943b0ad",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/7125c209-78a4-4261-906d-c5689943b0ad",
     "type": "ImageService2"
     }
     ],
@@ -9133,10 +9133,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/b72ffbd0-c645-452c-91f7-ba7c44009e37/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/b72ffbd0-c645-452c-91f7-ba7c44009e37/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/b72ffbd0-c645-452c-91f7-ba7c44009e37",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/b72ffbd0-c645-452c-91f7-ba7c44009e37",
     "type": "ImageService2"
     }
     ],
@@ -9230,10 +9230,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/f59a0683-b7e9-4846-afdf-7d9cffc34974/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/f59a0683-b7e9-4846-afdf-7d9cffc34974/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/f59a0683-b7e9-4846-afdf-7d9cffc34974",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/f59a0683-b7e9-4846-afdf-7d9cffc34974",
     "type": "ImageService2"
     }
     ],
@@ -9327,10 +9327,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/0be80f43-e0f4-4ed9-b296-acc493b7e056/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/0be80f43-e0f4-4ed9-b296-acc493b7e056/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/0be80f43-e0f4-4ed9-b296-acc493b7e056",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/0be80f43-e0f4-4ed9-b296-acc493b7e056",
     "type": "ImageService2"
     }
     ],
@@ -9424,10 +9424,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/d183ca17-9dcd-4d22-ab3d-3c1fcd4cbcf1/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/d183ca17-9dcd-4d22-ab3d-3c1fcd4cbcf1/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/d183ca17-9dcd-4d22-ab3d-3c1fcd4cbcf1",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/d183ca17-9dcd-4d22-ab3d-3c1fcd4cbcf1",
     "type": "ImageService2"
     }
     ],
@@ -9454,8 +9454,8 @@
     "geometry": {
     "type": "Point",
     "coordinates": [
-    6.9440697,
-    52.4705005
+    6.9326322,
+    52.4780987
     ]
     }
     },
@@ -9470,8 +9470,8 @@
     "geometry": {
     "type": "Point",
     "coordinates": [
-    7.2382366,
-    52.4650785
+    7.2268703,
+    52.473894
     ]
     }
     },
@@ -9486,8 +9486,8 @@
     "geometry": {
     "type": "Point",
     "coordinates": [
-    7.2503099,
-    52.6896334
+    7.2362798,
+    52.6984754
     ]
     }
     },
@@ -9502,8 +9502,8 @@
     "geometry": {
     "type": "Point",
     "coordinates": [
-    6.9546382,
-    52.6950825
+    6.9405399,
+    52.7027079
     ]
     }
     }
@@ -9521,10 +9521,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/5fbdc79a-6b68-409a-8164-2a9cb0316d45/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/5fbdc79a-6b68-409a-8164-2a9cb0316d45/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/5fbdc79a-6b68-409a-8164-2a9cb0316d45",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/5fbdc79a-6b68-409a-8164-2a9cb0316d45",
     "type": "ImageService2"
     }
     ],
@@ -9618,10 +9618,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/0edf9868-0eba-455c-b872-c675213c1d0c/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/0edf9868-0eba-455c-b872-c675213c1d0c/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/0edf9868-0eba-455c-b872-c675213c1d0c",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/0edf9868-0eba-455c-b872-c675213c1d0c",
     "type": "ImageService2"
     }
     ],
@@ -9715,10 +9715,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/3c8002af-bfd3-4cdb-b7a7-b56a24ab3140/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/3c8002af-bfd3-4cdb-b7a7-b56a24ab3140/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/3c8002af-bfd3-4cdb-b7a7-b56a24ab3140",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/3c8002af-bfd3-4cdb-b7a7-b56a24ab3140",
     "type": "ImageService2"
     }
     ],
@@ -9812,10 +9812,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/0d436ed1-adbf-4683-8525-eb910428721d/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/0d436ed1-adbf-4683-8525-eb910428721d/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/0d436ed1-adbf-4683-8525-eb910428721d",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/0d436ed1-adbf-4683-8525-eb910428721d",
     "type": "ImageService2"
     }
     ],
@@ -9909,10 +9909,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/5fcdd548-c295-4b16-ba50-aa1cc1881588/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/5fcdd548-c295-4b16-ba50-aa1cc1881588/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/5fcdd548-c295-4b16-ba50-aa1cc1881588",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/5fcdd548-c295-4b16-ba50-aa1cc1881588",
     "type": "ImageService2"
     }
     ],
@@ -10006,10 +10006,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/9380e140-b274-40b6-82c1-cc499e6e7dde/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/9380e140-b274-40b6-82c1-cc499e6e7dde/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/9380e140-b274-40b6-82c1-cc499e6e7dde",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/9380e140-b274-40b6-82c1-cc499e6e7dde",
     "type": "ImageService2"
     }
     ],
@@ -10103,10 +10103,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/38561b17-4c86-44ed-89b7-334c1e4a3882/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/38561b17-4c86-44ed-89b7-334c1e4a3882/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/38561b17-4c86-44ed-89b7-334c1e4a3882",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/38561b17-4c86-44ed-89b7-334c1e4a3882",
     "type": "ImageService2"
     }
     ],
@@ -10200,10 +10200,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/0a4eb0cf-b42b-4145-9128-d255f5a71e10/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/0a4eb0cf-b42b-4145-9128-d255f5a71e10/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/0a4eb0cf-b42b-4145-9128-d255f5a71e10",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/0a4eb0cf-b42b-4145-9128-d255f5a71e10",
     "type": "ImageService2"
     }
     ],
@@ -10297,10 +10297,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/753dfe32-fb06-43e2-9b51-24c237456766/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/753dfe32-fb06-43e2-9b51-24c237456766/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/753dfe32-fb06-43e2-9b51-24c237456766",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/753dfe32-fb06-43e2-9b51-24c237456766",
     "type": "ImageService2"
     }
     ],
@@ -10394,10 +10394,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/fdaec92e-30f6-41da-898b-9470a2e90bb2/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/fdaec92e-30f6-41da-898b-9470a2e90bb2/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/fdaec92e-30f6-41da-898b-9470a2e90bb2",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/fdaec92e-30f6-41da-898b-9470a2e90bb2",
     "type": "ImageService2"
     }
     ],
@@ -10491,10 +10491,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/1df3ebdc-590e-4bfa-adb1-19ce450092da/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/1df3ebdc-590e-4bfa-adb1-19ce450092da/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/1df3ebdc-590e-4bfa-adb1-19ce450092da",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/1df3ebdc-590e-4bfa-adb1-19ce450092da",
     "type": "ImageService2"
     }
     ],
@@ -10588,10 +10588,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/3f75b5e7-bcd3-401c-972b-db05a45d37d6/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/3f75b5e7-bcd3-401c-972b-db05a45d37d6/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/3f75b5e7-bcd3-401c-972b-db05a45d37d6",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/3f75b5e7-bcd3-401c-972b-db05a45d37d6",
     "type": "ImageService2"
     }
     ],
@@ -10685,10 +10685,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/50045ba7-6813-4ea6-ba46-9ac2fcd897e6/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/50045ba7-6813-4ea6-ba46-9ac2fcd897e6/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/50045ba7-6813-4ea6-ba46-9ac2fcd897e6",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/50045ba7-6813-4ea6-ba46-9ac2fcd897e6",
     "type": "ImageService2"
     }
     ],
@@ -10782,10 +10782,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/fa9ae902-bf4b-409f-ba02-cbd1b6a31e33/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/fa9ae902-bf4b-409f-ba02-cbd1b6a31e33/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/fa9ae902-bf4b-409f-ba02-cbd1b6a31e33",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/fa9ae902-bf4b-409f-ba02-cbd1b6a31e33",
     "type": "ImageService2"
     }
     ],
@@ -10879,10 +10879,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/c435a94c-8410-492c-adc8-56716fae5b6c/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/c435a94c-8410-492c-adc8-56716fae5b6c/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/c435a94c-8410-492c-adc8-56716fae5b6c",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/c435a94c-8410-492c-adc8-56716fae5b6c",
     "type": "ImageService2"
     }
     ],
@@ -10976,10 +10976,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/22b26821-095e-49b6-b95b-677354480b80/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/22b26821-095e-49b6-b95b-677354480b80/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/22b26821-095e-49b6-b95b-677354480b80",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/22b26821-095e-49b6-b95b-677354480b80",
     "type": "ImageService2"
     }
     ],
@@ -11073,10 +11073,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/32d72623-a2b9-4d3b-89c6-756433f5fea5/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/32d72623-a2b9-4d3b-89c6-756433f5fea5/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/32d72623-a2b9-4d3b-89c6-756433f5fea5",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/32d72623-a2b9-4d3b-89c6-756433f5fea5",
     "type": "ImageService2"
     }
     ],
@@ -11170,10 +11170,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/34f403b9-5e6a-4d6c-a583-016aab906f9e/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/34f403b9-5e6a-4d6c-a583-016aab906f9e/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/34f403b9-5e6a-4d6c-a583-016aab906f9e",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/34f403b9-5e6a-4d6c-a583-016aab906f9e",
     "type": "ImageService2"
     }
     ],
@@ -11267,10 +11267,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/43194aa3-1834-48ca-a5a1-e3ac22486dd6/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/43194aa3-1834-48ca-a5a1-e3ac22486dd6/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/43194aa3-1834-48ca-a5a1-e3ac22486dd6",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/43194aa3-1834-48ca-a5a1-e3ac22486dd6",
     "type": "ImageService2"
     }
     ],
@@ -11364,10 +11364,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/f4047a4a-d567-4a43-a2d4-f98435eec2d5/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/f4047a4a-d567-4a43-a2d4-f98435eec2d5/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/f4047a4a-d567-4a43-a2d4-f98435eec2d5",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/f4047a4a-d567-4a43-a2d4-f98435eec2d5",
     "type": "ImageService2"
     }
     ],
@@ -11461,10 +11461,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/25194ee3-7ccc-4e86-bf8c-a6aaa1f07999/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/25194ee3-7ccc-4e86-bf8c-a6aaa1f07999/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/25194ee3-7ccc-4e86-bf8c-a6aaa1f07999",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/25194ee3-7ccc-4e86-bf8c-a6aaa1f07999",
     "type": "ImageService2"
     }
     ],
@@ -11558,10 +11558,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/71f02df3-3a7b-4cdd-b8ea-ae3b2948f718/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/71f02df3-3a7b-4cdd-b8ea-ae3b2948f718/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/71f02df3-3a7b-4cdd-b8ea-ae3b2948f718",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/71f02df3-3a7b-4cdd-b8ea-ae3b2948f718",
     "type": "ImageService2"
     }
     ],
@@ -11655,10 +11655,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/b90607f7-a466-4560-8355-ee62d0a92f85/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/b90607f7-a466-4560-8355-ee62d0a92f85/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/b90607f7-a466-4560-8355-ee62d0a92f85",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/b90607f7-a466-4560-8355-ee62d0a92f85",
     "type": "ImageService2"
     }
     ],
@@ -11752,10 +11752,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/0c24e555-679a-4652-a2d4-63edd33a453c/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/0c24e555-679a-4652-a2d4-63edd33a453c/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/0c24e555-679a-4652-a2d4-63edd33a453c",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/0c24e555-679a-4652-a2d4-63edd33a453c",
     "type": "ImageService2"
     }
     ],
@@ -11849,10 +11849,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/04b811a4-09f3-4ec8-9936-8d8add46832e/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/04b811a4-09f3-4ec8-9936-8d8add46832e/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/04b811a4-09f3-4ec8-9936-8d8add46832e",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/04b811a4-09f3-4ec8-9936-8d8add46832e",
     "type": "ImageService2"
     }
     ],
@@ -11946,10 +11946,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/d66e5895-9d9c-42bf-ba42-7018f3788ded/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/d66e5895-9d9c-42bf-ba42-7018f3788ded/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/d66e5895-9d9c-42bf-ba42-7018f3788ded",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/d66e5895-9d9c-42bf-ba42-7018f3788ded",
     "type": "ImageService2"
     }
     ],
@@ -12043,10 +12043,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/74c6cc2b-8116-4c16-82b3-771af7945a23/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/74c6cc2b-8116-4c16-82b3-771af7945a23/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/74c6cc2b-8116-4c16-82b3-771af7945a23",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/74c6cc2b-8116-4c16-82b3-771af7945a23",
     "type": "ImageService2"
     }
     ],
@@ -12140,10 +12140,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/e86c5464-6737-4476-8804-59f463a52cd9/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/e86c5464-6737-4476-8804-59f463a52cd9/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/e86c5464-6737-4476-8804-59f463a52cd9",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/e86c5464-6737-4476-8804-59f463a52cd9",
     "type": "ImageService2"
     }
     ],
@@ -12237,10 +12237,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/0c69628c-3e29-4d3b-99ad-ee0a3fa0f8eb/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/0c69628c-3e29-4d3b-99ad-ee0a3fa0f8eb/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/0c69628c-3e29-4d3b-99ad-ee0a3fa0f8eb",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/0c69628c-3e29-4d3b-99ad-ee0a3fa0f8eb",
     "type": "ImageService2"
     }
     ],
@@ -12334,10 +12334,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/10ec7a1a-9c78-4a16-8028-84917f003545/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/10ec7a1a-9c78-4a16-8028-84917f003545/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/10ec7a1a-9c78-4a16-8028-84917f003545",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/10ec7a1a-9c78-4a16-8028-84917f003545",
     "type": "ImageService2"
     }
     ],
@@ -12431,10 +12431,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/81b51f77-cc3a-4517-a829-1d9042dbd92f/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/81b51f77-cc3a-4517-a829-1d9042dbd92f/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/81b51f77-cc3a-4517-a829-1d9042dbd92f",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/81b51f77-cc3a-4517-a829-1d9042dbd92f",
     "type": "ImageService2"
     }
     ],
@@ -12528,10 +12528,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/a6051bf1-051b-496a-969c-a70cb46d2507/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/a6051bf1-051b-496a-969c-a70cb46d2507/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/a6051bf1-051b-496a-969c-a70cb46d2507",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/a6051bf1-051b-496a-969c-a70cb46d2507",
     "type": "ImageService2"
     }
     ],
@@ -12625,10 +12625,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/4204eca7-186b-4722-86f8-eabbfa22d8e1/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/4204eca7-186b-4722-86f8-eabbfa22d8e1/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/4204eca7-186b-4722-86f8-eabbfa22d8e1",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/4204eca7-186b-4722-86f8-eabbfa22d8e1",
     "type": "ImageService2"
     }
     ],
@@ -12722,10 +12722,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/5eb7bef0-88ec-4f53-ba3e-fc000824eeef/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/5eb7bef0-88ec-4f53-ba3e-fc000824eeef/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/5eb7bef0-88ec-4f53-ba3e-fc000824eeef",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/5eb7bef0-88ec-4f53-ba3e-fc000824eeef",
     "type": "ImageService2"
     }
     ],
@@ -12819,10 +12819,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/9ca9aad8-102b-488d-b2ed-db74d4f1278f/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/9ca9aad8-102b-488d-b2ed-db74d4f1278f/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/9ca9aad8-102b-488d-b2ed-db74d4f1278f",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/9ca9aad8-102b-488d-b2ed-db74d4f1278f",
     "type": "ImageService2"
     }
     ],
@@ -12916,10 +12916,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/cc76d7a8-4ea8-4644-ade7-b4b6386cbbec/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/cc76d7a8-4ea8-4644-ade7-b4b6386cbbec/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/cc76d7a8-4ea8-4644-ade7-b4b6386cbbec",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/cc76d7a8-4ea8-4644-ade7-b4b6386cbbec",
     "type": "ImageService2"
     }
     ],
@@ -13013,10 +13013,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/c7049865-781d-423f-978f-70c40758ba3d/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/c7049865-781d-423f-978f-70c40758ba3d/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/c7049865-781d-423f-978f-70c40758ba3d",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/c7049865-781d-423f-978f-70c40758ba3d",
     "type": "ImageService2"
     }
     ],
@@ -13110,16 +13110,16 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/5f443e2e-31de-480b-93b6-8c3d25763d6e/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/5f443e2e-31de-480b-93b6-8c3d25763d6e/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/5f443e2e-31de-480b-93b6-8c3d25763d6e",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/5f443e2e-31de-480b-93b6-8c3d25763d6e",
     "type": "ImageService2"
     }
     ],
     "selector": {
     "type": "SvgSelector",
-    "value": "<svg width=\"5512\" height=\"4584\"><polygon points=\"1186,4596 4333,2715 4348,342 1207,339\" /></svg>"
+    "value": "<svg width=\"5512\" height=\"4584\"><polygon points=\"1188,4245 4324,4232 4348,342 1207,339\" /></svg>"
     }
     },
     "body": {
@@ -13133,8 +13133,8 @@
     "type": "Feature",
     "properties": {
     "pixelCoords": [
-    1186,
-    4596
+    1188,
+    4245
     ]
     },
     "geometry": {
@@ -13149,8 +13149,8 @@
     "type": "Feature",
     "properties": {
     "pixelCoords": [
-    4333,
-    2715
+    4324,
+    4232
     ]
     },
     "geometry": {
@@ -13207,10 +13207,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/d72ab4ec-d0f6-4632-aa92-fd77e63ef673/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/d72ab4ec-d0f6-4632-aa92-fd77e63ef673/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/d72ab4ec-d0f6-4632-aa92-fd77e63ef673",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/d72ab4ec-d0f6-4632-aa92-fd77e63ef673",
     "type": "ImageService2"
     }
     ],
@@ -13304,10 +13304,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/a0f0c0f2-8db9-465e-b14c-bbe5962ee299/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/a0f0c0f2-8db9-465e-b14c-bbe5962ee299/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/a0f0c0f2-8db9-465e-b14c-bbe5962ee299",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/a0f0c0f2-8db9-465e-b14c-bbe5962ee299",
     "type": "ImageService2"
     }
     ],
@@ -13401,10 +13401,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/10959805-5144-4ef0-9f9f-c847eaffbfa2/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/10959805-5144-4ef0-9f9f-c847eaffbfa2/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/10959805-5144-4ef0-9f9f-c847eaffbfa2",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/10959805-5144-4ef0-9f9f-c847eaffbfa2",
     "type": "ImageService2"
     }
     ],
@@ -13498,10 +13498,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/7f05b873-594a-48a4-ad26-56eb48518e2c/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/7f05b873-594a-48a4-ad26-56eb48518e2c/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/7f05b873-594a-48a4-ad26-56eb48518e2c",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/7f05b873-594a-48a4-ad26-56eb48518e2c",
     "type": "ImageService2"
     }
     ],
@@ -13595,10 +13595,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/d070b0d3-58fa-4a7d-ad7f-9555aee7a948/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/d070b0d3-58fa-4a7d-ad7f-9555aee7a948/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/d070b0d3-58fa-4a7d-ad7f-9555aee7a948",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/d070b0d3-58fa-4a7d-ad7f-9555aee7a948",
     "type": "ImageService2"
     }
     ],
@@ -13692,10 +13692,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/9198af10-5b24-4bd6-976b-ef404c006463/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/9198af10-5b24-4bd6-976b-ef404c006463/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/9198af10-5b24-4bd6-976b-ef404c006463",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/9198af10-5b24-4bd6-976b-ef404c006463",
     "type": "ImageService2"
     }
     ],
@@ -13789,10 +13789,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/957a286d-72e3-4a7d-a8c6-5ed3756b9c86/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/957a286d-72e3-4a7d-a8c6-5ed3756b9c86/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/957a286d-72e3-4a7d-a8c6-5ed3756b9c86",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/957a286d-72e3-4a7d-a8c6-5ed3756b9c86",
     "type": "ImageService2"
     }
     ],
@@ -13886,10 +13886,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/f691ae34-e506-48f8-956e-b14cb1e7f85e/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/f691ae34-e506-48f8-956e-b14cb1e7f85e/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/f691ae34-e506-48f8-956e-b14cb1e7f85e",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/f691ae34-e506-48f8-956e-b14cb1e7f85e",
     "type": "ImageService2"
     }
     ],
@@ -13983,10 +13983,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/c81bcaac-9a0a-4396-aa35-6d9d4f906a68/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/c81bcaac-9a0a-4396-aa35-6d9d4f906a68/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/c81bcaac-9a0a-4396-aa35-6d9d4f906a68",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/c81bcaac-9a0a-4396-aa35-6d9d4f906a68",
     "type": "ImageService2"
     }
     ],
@@ -14080,10 +14080,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/1d9d6d07-923b-49a1-9e8f-d4647ee77fcf/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/1d9d6d07-923b-49a1-9e8f-d4647ee77fcf/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/1d9d6d07-923b-49a1-9e8f-d4647ee77fcf",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/1d9d6d07-923b-49a1-9e8f-d4647ee77fcf",
     "type": "ImageService2"
     }
     ],
@@ -14177,10 +14177,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/1bcc1587-34ba-4214-9ac3-96d9753f7562/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/1bcc1587-34ba-4214-9ac3-96d9753f7562/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/1bcc1587-34ba-4214-9ac3-96d9753f7562",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/1bcc1587-34ba-4214-9ac3-96d9753f7562",
     "type": "ImageService2"
     }
     ],
@@ -14274,10 +14274,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/ed16aefa-588b-4fda-9235-7ceeba21dfe0/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/ed16aefa-588b-4fda-9235-7ceeba21dfe0/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/ed16aefa-588b-4fda-9235-7ceeba21dfe0",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/ed16aefa-588b-4fda-9235-7ceeba21dfe0",
     "type": "ImageService2"
     }
     ],
@@ -14371,10 +14371,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/71d3c5ca-dcf1-4efb-b6da-e410ea4a3413/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/71d3c5ca-dcf1-4efb-b6da-e410ea4a3413/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/71d3c5ca-dcf1-4efb-b6da-e410ea4a3413",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/71d3c5ca-dcf1-4efb-b6da-e410ea4a3413",
     "type": "ImageService2"
     }
     ],
@@ -14468,10 +14468,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/f2c5b80b-f4fc-4eb5-a24d-1430095bd0f7/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/f2c5b80b-f4fc-4eb5-a24d-1430095bd0f7/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/f2c5b80b-f4fc-4eb5-a24d-1430095bd0f7",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/f2c5b80b-f4fc-4eb5-a24d-1430095bd0f7",
     "type": "ImageService2"
     }
     ],
@@ -14565,10 +14565,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/39586f2b-9dcc-479a-b21d-f331e663bff3/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/39586f2b-9dcc-479a-b21d-f331e663bff3/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/39586f2b-9dcc-479a-b21d-f331e663bff3",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/39586f2b-9dcc-479a-b21d-f331e663bff3",
     "type": "ImageService2"
     }
     ],
@@ -14662,10 +14662,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/6f79fa55-30dd-41d9-b983-8e60e0a0a611/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/6f79fa55-30dd-41d9-b983-8e60e0a0a611/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/6f79fa55-30dd-41d9-b983-8e60e0a0a611",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/6f79fa55-30dd-41d9-b983-8e60e0a0a611",
     "type": "ImageService2"
     }
     ],
@@ -14759,10 +14759,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/dc3ab07d-653f-4a17-bf28-7365c99f7a5f/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/dc3ab07d-653f-4a17-bf28-7365c99f7a5f/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/dc3ab07d-653f-4a17-bf28-7365c99f7a5f",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/dc3ab07d-653f-4a17-bf28-7365c99f7a5f",
     "type": "ImageService2"
     }
     ],
@@ -14856,10 +14856,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/d58459be-3b67-493a-ab5c-593d99d453f1/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/d58459be-3b67-493a-ab5c-593d99d453f1/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/d58459be-3b67-493a-ab5c-593d99d453f1",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/d58459be-3b67-493a-ab5c-593d99d453f1",
     "type": "ImageService2"
     }
     ],
@@ -14953,10 +14953,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/daf5146e-da4c-4b2a-9601-4596fb68b2d3/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/daf5146e-da4c-4b2a-9601-4596fb68b2d3/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/daf5146e-da4c-4b2a-9601-4596fb68b2d3",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/daf5146e-da4c-4b2a-9601-4596fb68b2d3",
     "type": "ImageService2"
     }
     ],
@@ -15050,10 +15050,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/ba2ab099-e113-4337-9966-2c757763d965/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/ba2ab099-e113-4337-9966-2c757763d965/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/ba2ab099-e113-4337-9966-2c757763d965",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/ba2ab099-e113-4337-9966-2c757763d965",
     "type": "ImageService2"
     }
     ],
@@ -15147,10 +15147,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/09f70ba7-c581-4a6e-83e2-03318640d8d0/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/09f70ba7-c581-4a6e-83e2-03318640d8d0/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/09f70ba7-c581-4a6e-83e2-03318640d8d0",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/09f70ba7-c581-4a6e-83e2-03318640d8d0",
     "type": "ImageService2"
     }
     ],
@@ -15244,10 +15244,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/61cbb9cc-ff73-4919-8d32-ab2db523d0da/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/61cbb9cc-ff73-4919-8d32-ab2db523d0da/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/61cbb9cc-ff73-4919-8d32-ab2db523d0da",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/61cbb9cc-ff73-4919-8d32-ab2db523d0da",
     "type": "ImageService2"
     }
     ],
@@ -15341,10 +15341,10 @@
     "motivation": "georeferencing",
     "target": {
     "type": "Image",
-    "source": "https://dlc.services/iiif-img/7/32/181a11a8-50c3-457b-9b17-f600fa4693c5/full/full/0/default.jpg",
+    "source": "https://dlc.services/iiif-img/v3/7/32/181a11a8-50c3-457b-9b17-f600fa4693c5/full/full/0/default.jpg",
     "service": [
     {
-    "@id": "https://dlc.services/iiif-img/7/32/181a11a8-50c3-457b-9b17-f600fa4693c5",
+    "@id": "https://dlc.services/iiif-img/v3/7/32/181a11a8-50c3-457b-9b17-f600fa4693c5",
     "type": "ImageService2"
     }
     ],
