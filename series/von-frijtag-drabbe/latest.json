@@ -7768,6 +7768,38 @@
                 52.8281889
               ]
             }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                67,
+                2978
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.4769056,
+                52.8192766
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                69,
+                2787
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.4770284,
+                52.8282628
+              ]
+            }
           }
         ]
       }
