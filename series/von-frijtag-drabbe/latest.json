@@ -7720,6 +7720,22 @@
                 52.837175
               ]
             }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                284,
+                1699
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.4924945,
+                52.8731196
+              ]
+            }
           }
         ]
       }
