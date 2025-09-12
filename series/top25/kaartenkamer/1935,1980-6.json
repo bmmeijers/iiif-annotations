@@ -1,0 +1,100 @@
+{
+  "type": "AnnotationPage",
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "items": [
+    {
+      "id": "17d071bf-b968-40d5-9349-92c1cf93010f",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://dlc.services/iiif-img/v3/7/4/17d071bf-b968-40d5-9349-92c1cf93010f",
+          "type": "ImageService2",
+          "height": 8206,
+          "width": 6494
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"6494\" height=\"8206\"><polygon points=\"505,6607 5210,6608 5187,625 483,643\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "thinPlateSpline"
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                505,
+                6607
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.1485139,
+                52.0318134
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                5210,
+                6608
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.2942153,
+                52.0332564
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                5187,
+                625
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.2914659,
+                52.1455903
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                483,
+                643
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.1453983,
+                52.1441424
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
