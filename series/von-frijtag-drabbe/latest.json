@@ -16809,7 +16809,7 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                3612,
+                3608,
                 4776
               ]
             },
@@ -16857,7 +16857,7 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                3607,
+                3613,
                 3594
               ]
             },
@@ -16905,7 +16905,7 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                3608,
+                3609,
                 2416
               ]
             },
@@ -16953,8 +16953,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                3590,
-                1235
+                3611,
+                1237
               ]
             },
             "geometry": {
