@@ -31633,8 +31633,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                3575,
-                4782
+                3582,
+                4770
               ]
             },
             "geometry": {
@@ -31681,7 +31681,7 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                3582,
+                3581,
                 3591
               ]
             },
@@ -31729,7 +31729,7 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                3573,
+                3588,
                 2418
               ]
             },
