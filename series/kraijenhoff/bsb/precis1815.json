@@ -835,8 +835,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                3466.25,
-                2481.91
+                3445,
+                2497
               ]
             },
             "geometry": {
@@ -883,8 +883,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                3669.26,
-                2179.77
+                3660,
+                2192
               ]
             },
             "geometry": {
@@ -979,8 +979,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                3050.15,
-                2151.42
+                3034,
+                2158
               ]
             },
             "geometry": {
@@ -995,8 +995,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                3371.26,
-                2233.03
+                3356,
+                2235
               ]
             },
             "geometry": {
@@ -1011,8 +1011,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                3716.02,
-                2390.73
+                3700,
+                2406
               ]
             },
             "geometry": {
@@ -1027,8 +1027,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                3865.12,
-                2394.96
+                3848,
+                2414
               ]
             },
             "geometry": {
@@ -1123,8 +1123,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                3074.01,
-                1972.19
+                3059,
+                1972
               ]
             },
             "geometry": {
@@ -1139,8 +1139,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                3222.63,
-                1999.41
+                3211,
+                2001
               ]
             },
             "geometry": {
@@ -1363,8 +1363,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                3578.82,
-                2026.07
+                3570,
+                2035
               ]
             },
             "geometry": {
