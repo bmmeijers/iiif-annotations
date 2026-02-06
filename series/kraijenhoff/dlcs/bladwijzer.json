@@ -372,7 +372,7 @@
             "properties": {
               "resourceCoords": [
                 2748,
-                2263
+                2264
               ]
             },
             "geometry": {
@@ -403,8 +403,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                3123,
-                2673
+                3105,
+                2649
               ]
             },
             "geometry": {
@@ -451,8 +451,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                2981,
-                2278
+                2932,
+                2275
               ]
             },
             "geometry": {
@@ -467,8 +467,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                3238,
-                2354
+                3215,
+                2339
               ]
             },
             "geometry": {
@@ -515,8 +515,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                2878,
-                1994
+                2858,
+                1990
               ]
             },
             "geometry": {
@@ -531,8 +531,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                3062,
-                2004
+                3047,
+                1998
               ]
             },
             "geometry": {
@@ -547,8 +547,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                3271,
-                2103
+                3254,
+                2092
               ]
             },
             "geometry": {
@@ -563,8 +563,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                3439,
-                2276
+                3422,
+                2266
               ]
             },
             "geometry": {
@@ -627,8 +627,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                3612,
-                2038
+                3607,
+                2020
               ]
             },
             "geometry": {
@@ -707,8 +707,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                2966,
-                1689
+                2938,
+                1686
               ]
             },
             "geometry": {
@@ -723,8 +723,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                3186,
-                1837
+                3160,
+                1833
               ]
             },
             "geometry": {
@@ -755,8 +755,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                3197,
-                1680
+                3172,
+                1677
               ]
             },
             "geometry": {
@@ -771,8 +771,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                3003,
-                1499
+                2976,
+                1491
               ]
             },
             "geometry": {
@@ -787,8 +787,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                3231,
-                1517
+                3202,
+                1524
               ]
             },
             "geometry": {
@@ -803,8 +803,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                3371,
-                1603
+                3349,
+                1600
               ]
             },
             "geometry": {
@@ -819,8 +819,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                3595,
-                1654
+                3574,
+                1623
               ]
             },
             "geometry": {
@@ -835,8 +835,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                3836,
-                1781
+                3807,
+                1772
               ]
             },
             "geometry": {
@@ -852,7 +852,7 @@
             "properties": {
               "resourceCoords": [
                 4192,
-                1870
+                1872
               ]
             },
             "geometry": {
@@ -915,8 +915,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                2950,
-                1296
+                2916,
+                1308
               ]
             },
             "geometry": {
@@ -931,8 +931,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                3163,
-                1323
+                3134,
+                1332
               ]
             },
             "geometry": {
@@ -947,8 +947,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                3422,
-                1385
+                3404,
+                1383
               ]
             },
             "geometry": {
@@ -963,8 +963,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                3682,
-                1431
+                3660,
+                1420
               ]
             },
             "geometry": {
@@ -979,8 +979,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                3868,
-                1574
+                3855,
+                1558
               ]
             },
             "geometry": {
@@ -995,8 +995,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                4039,
-                1610
+                4035,
+                1597
               ]
             },
             "geometry": {
@@ -1011,8 +1011,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                3063,
-                1135
+                3027,
+                1143
               ]
             },
             "geometry": {
@@ -1027,8 +1027,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                3267,
-                1163
+                3235,
+                1174
               ]
             },
             "geometry": {
@@ -1043,8 +1043,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                3202,
-                876
+                3158,
+                882
               ]
             },
             "geometry": {
@@ -1059,8 +1059,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                3461,
-                1027
+                3445,
+                1026
               ]
             },
             "geometry": {
@@ -1075,8 +1075,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                3643,
-                1201
+                3624,
+                1199
               ]
             },
             "geometry": {
@@ -1091,8 +1091,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                3935,
-                1368
+                3931,
+                1366
               ]
             },
             "geometry": {
@@ -1107,8 +1107,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                3369,
-                771
+                3344,
+                776
               ]
             },
             "geometry": {
@@ -1123,7 +1123,7 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                3664,
+                3648,
                 700
               ]
             },
@@ -1139,8 +1139,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                3739,
-                992
+                3725,
+                987
               ]
             },
             "geometry": {
@@ -1155,8 +1155,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                3892,
-                839
+                3871,
+                832
               ]
             },
             "geometry": {
@@ -1171,8 +1171,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                3969,
-                1109
+                3965,
+                1110
               ]
             },
             "geometry": {
@@ -1187,8 +1187,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                4112,
-                1246
+                4110,
+                1245
               ]
             },
             "geometry": {
@@ -1203,8 +1203,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                4279,
-                1411
+                4272,
+                1399
               ]
             },
             "geometry": {
@@ -1251,8 +1251,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                4312,
-                967
+                4314,
+                970
               ]
             },
             "geometry": {
@@ -1267,8 +1267,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                4373,
-                1249
+                4369,
+                1246
               ]
             },
             "geometry": {
@@ -1315,8 +1315,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                4532,
-                795
+                4547,
+                794
               ]
             },
             "geometry": {
@@ -1331,8 +1331,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                4638,
-                993
+                4646,
+                989
               ]
             },
             "geometry": {
@@ -1363,8 +1363,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                4669,
-                638
+                4702,
+                651
               ]
             },
             "geometry": {
@@ -1379,8 +1379,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                4778,
-                778
+                4799,
+                774
               ]
             },
             "geometry": {
@@ -1411,8 +1411,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                4827,
-                488
+                4857,
+                499
               ]
             },
             "geometry": {
@@ -1427,40 +1427,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                5096,
-                768
-              ]
-            },
-            "geometry": {
-              "type": "Point",
-              "coordinates": [
-                7.6404714,
-                53.3689707
-              ]
-            }
-          },
-          {
-            "type": "Feature",
-            "properties": {
-              "resourceCoords": [
-                5311,
-                898
-              ]
-            },
-            "geometry": {
-              "type": "Point",
-              "coordinates": [
-                7.9279948,
-                53.2575701
-              ]
-            }
-          },
-          {
-            "type": "Feature",
-            "properties": {
-              "resourceCoords": [
-                5066,
-                427
+                5095,
+                435
               ]
             },
             "geometry": {
@@ -1468,22 +1436,6 @@
               "coordinates": [
                 7.6127933,
                 53.647636
-              ]
-            }
-          },
-          {
-            "type": "Feature",
-            "properties": {
-              "resourceCoords": [
-                5280,
-                513
-              ]
-            },
-            "geometry": {
-              "type": "Point",
-              "coordinates": [
-                7.9029141,
-                53.5722669
               ]
             }
           },
@@ -1523,8 +1475,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                2899,
-                1522
+                2873,
+                1525
               ]
             },
             "geometry": {
@@ -1555,8 +1507,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                4460,
-                1227
+                4463,
+                1223
               ]
             },
             "geometry": {
@@ -1603,8 +1555,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                4975,
-                648
+                5004,
+                655
               ]
             },
             "geometry": {
@@ -1612,22 +1564,6 @@
               "coordinates": [
                 7.4799411,
                 53.4695843
-              ]
-            }
-          },
-          {
-            "type": "Feature",
-            "properties": {
-              "resourceCoords": [
-                5178,
-                1010
-              ]
-            },
-            "geometry": {
-              "type": "Point",
-              "coordinates": [
-                7.7425915,
-                53.1693053
               ]
             }
           },
