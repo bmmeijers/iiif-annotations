@@ -419,8 +419,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                3377,
-                2848
+                3363,
+                2824
               ]
             },
             "geometry": {
@@ -435,8 +435,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                3703,
-                2739
+                3704,
+                2738
               ]
             },
             "geometry": {
@@ -1459,8 +1459,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                3012,
-                3449
+                3011,
+                3448
               ]
             },
             "geometry": {
