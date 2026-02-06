@@ -371,8 +371,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                1917.16,
-                2866.27
+                1910,
+                2866
               ]
             },
             "geometry": {
@@ -387,8 +387,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                2099.9,
-                3089.03
+                2095,
+                3103
               ]
             },
             "geometry": {
@@ -403,8 +403,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                2323.58,
-                3196.23
+                2297,
+                3213
               ]
             },
             "geometry": {
@@ -451,8 +451,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                3140.83,
-                3171.91
+                3108,
+                3195
               ]
             },
             "geometry": {
@@ -467,8 +467,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                2011.01,
-                2680.28
+                2009,
+                2692
               ]
             },
             "geometry": {
@@ -483,8 +483,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                2129.05,
-                2845.06
+                2130,
+                2838
               ]
             },
             "geometry": {
@@ -499,8 +499,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                2245.12,
-                2957.93
+                2224,
+                2964
               ]
             },
             "geometry": {
@@ -515,8 +515,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                2131.44,
-                2595.89
+                2131,
+                2606
               ]
             },
             "geometry": {
@@ -531,8 +531,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                2276.2,
-                2748.87
+                2260,
+                2743
               ]
             },
             "geometry": {
@@ -547,8 +547,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                2450.73,
-                2939.11
+                2432,
+                2941
               ]
             },
             "geometry": {
@@ -563,8 +563,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                2674.11,
-                3085.66
+                2653,
+                3095
               ]
             },
             "geometry": {
@@ -579,8 +579,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                2957.49,
-                3002.86
+                2931,
+                3012
               ]
             },
             "geometry": {
@@ -595,8 +595,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                2319.76,
-                2599.93
+                2299,
+                2606
               ]
             },
             "geometry": {
@@ -611,8 +611,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                2543.96,
-                2660.28
+                2527,
+                2661
               ]
             },
             "geometry": {
@@ -627,8 +627,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                2836.87,
-                2796.56
+                2805,
+                2784
               ]
             },
             "geometry": {
@@ -643,8 +643,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                3035.56,
-                2907.45
+                3003,
+                2903
               ]
             },
             "geometry": {
@@ -659,8 +659,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                2224.17,
-                2356.01
+                2209,
+                2364
               ]
             },
             "geometry": {
@@ -675,8 +675,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                2384.37,
-                2361.1
+                2371,
+                2372
               ]
             },
             "geometry": {
@@ -691,8 +691,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                2567,
-                2442.04
+                2552,
+                2448
               ]
             },
             "geometry": {
@@ -707,8 +707,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                2716.51,
-                2588.55
+                2700,
+                2595
               ]
             },
             "geometry": {
@@ -739,8 +739,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                3277.83,
-                2822.65
+                3245,
+                2813
               ]
             },
             "geometry": {
@@ -851,8 +851,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                2294.5,
-                2089.39
+                2282,
+                2090
               ]
             },
             "geometry": {
@@ -867,8 +867,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                2488.31,
-                2213.2
+                2476,
+                2215
               ]
             },
             "geometry": {
@@ -899,8 +899,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                2494.48,
-                2077
+                2478,
+                2076
               ]
             },
             "geometry": {
@@ -915,8 +915,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                2322.21,
-                1924.07
+                2306,
+                1926
               ]
             },
             "geometry": {
@@ -931,8 +931,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                2520.32,
-                1935.55
+                2512,
+                1934
               ]
             },
             "geometry": {
@@ -947,8 +947,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                2643.61,
-                2007.13
+                2585,
+                2006
               ]
             },
             "geometry": {
@@ -963,8 +963,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                2838.65,
-                2047.05
+                2834,
+                2047
               ]
             },
             "geometry": {
@@ -1059,8 +1059,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                2272.26,
-                1750
+                2251,
+                1745
               ]
             },
             "geometry": {
@@ -1075,8 +1075,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                2457.95,
-                1768.43
+                2447,
+                1763
               ]
             },
             "geometry": {
@@ -1091,8 +1091,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                2683.52,
-                1817.01
+                2674,
+                1816
               ]
             },
             "geometry": {
@@ -1155,8 +1155,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                2367.56,
-                1607.42
+                2348,
+                1593
               ]
             },
             "geometry": {
@@ -1171,8 +1171,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                2544.14,
-                1627.92
+                2528,
+                1620
               ]
             },
             "geometry": {
@@ -1187,8 +1187,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                2482.43,
-                1380.78
+                2464,
+                1364
               ]
             },
             "geometry": {
@@ -1203,8 +1203,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                2710.29,
-                1506
+                2689,
+                1491
               ]
             },
             "geometry": {
@@ -1251,8 +1251,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                2624.89,
-                1285.73
+                2611,
+                1267
               ]
             },
             "geometry": {
@@ -1667,8 +1667,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                2233.09,
-                1946.37
+                2222,
+                1950
               ]
             },
             "geometry": {
@@ -1779,8 +1779,8 @@
             "type": "Feature",
             "properties": {
               "resourceCoords": [
-                3064.26,
-                2994.72
+                3034,
+                2997
               ]
             },
             "geometry": {
