@@ -1,0 +1,1905 @@
+{
+  "type": "AnnotationPage",
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "items": [
+    {
+      "id": "urn:uuid:9b3241b5-d373-45c8-8b91-8ec81cf1b685",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://gist.bk.tudelft.nl/~bmmeijers/volatile/2026/heuvelink/blz020/",
+          "type": "ImageService2",
+          "height": 6190,
+          "width": 4176
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"4176\" height=\"6190\"><polygon points=\"307,385 3855,408 3820,5980 266,5956\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "thinPlateSpline"
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                307,
+                385
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.5540372,
+                53.7248855
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                3855,
+                408
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.2357173,
+                53.7276579
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                3820,
+                5980
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.2379139,
+                53.0987154
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                266,
+                5956
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.566136,
+                53.0959962
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "urn:uuid:2bed60eb-8802-45dc-8a1e-3d10db1ec02f",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://gist.bk.tudelft.nl/~bmmeijers/volatile/2026/heuvelink/blz021/",
+          "type": "ImageService2",
+          "height": 6265,
+          "width": 4195
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"4195\" height=\"6265\"><polygon points=\"0,0 4195,0 4195,6265 0,6265\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "ThinPlateSpline",
+          "order": 1
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                0,
+                0
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.235717322802288,
+                53.72765788580202
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                4195,
+                0
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.9174270412101055,
+                53.72659033425225
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                4195,
+                6265
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.90972260482245,
+                53.09766793531086
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                0,
+                6265
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.237913865535496,
+                53.09871544018937
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "urn:uuid:a6bb1d5b-3e58-4ad2-9a6f-e83c3404b65e",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://gist.bk.tudelft.nl/~bmmeijers/volatile/2026/heuvelink/blz022/",
+          "type": "ImageService2",
+          "height": 6260,
+          "width": 4200
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"4200\" height=\"6260\"><polygon points=\"0,0 4200,0 4200,6260 0,6260\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "ThinPlateSpline",
+          "order": 1
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                0,
+                0
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.9174270412101055,
+                53.72659033425225
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                4200,
+                0
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                6.599027031978389,
+                53.72168392540405
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                4200,
+                6260
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                6.5814259829014965,
+                53.0928532289731
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                0,
+                6260
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.90972260482245,
+                53.09766793531086
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "urn:uuid:38443194-aacf-4f6a-8763-7b417f4902bb",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://gist.bk.tudelft.nl/~bmmeijers/volatile/2026/heuvelink/blz023/",
+          "type": "ImageService2",
+          "height": 6246,
+          "width": 4190
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"4190\" height=\"6246\"><polygon points=\"0,0 4190,0 4190,6246 0,6246\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "ThinPlateSpline",
+          "order": 1
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                0,
+                0
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                6.599027031978389,
+                53.72168392540405
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                4190,
+                0
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                7.280377787365065,
+                53.712942144455944
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                4190,
+                6246
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                7.252891876637539,
+                53.084273463927595
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                0,
+                6246
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                6.5814259829014965,
+                53.0928532289731
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "urn:uuid:2afe1638-9814-4b88-b0a2-36db870495df",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://gist.bk.tudelft.nl/~bmmeijers/volatile/2026/heuvelink/blz024/",
+          "type": "ImageService2",
+          "height": 6236,
+          "width": 4173
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"4173\" height=\"6236\"><polygon points=\"0,0 4173,0 4173,6236 0,6236\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "ThinPlateSpline",
+          "order": 1
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                0,
+                0
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.566135977994665,
+                53.09599623698006
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                4173,
+                0
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.237913865535496,
+                53.09871544018937
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                4173,
+                6236
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.240039330951261,
+                52.46964966503825
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                0,
+                6236
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.577839418125869,
+                52.46697875390306
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "urn:uuid:be0bb015-36e4-413c-9567-bcf06e3cea10",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://gist.bk.tudelft.nl/~bmmeijers/volatile/2026/heuvelink/blz025/",
+          "type": "ImageService2",
+          "height": 6258,
+          "width": 4197
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"4197\" height=\"6258\"><polygon points=\"0,0 4197,0 4197,6258 0,6258\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "ThinPlateSpline",
+          "order": 1
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                0,
+                0
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.237913865535496,
+                53.09871544018937
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                4197,
+                0
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.90972260482245,
+                53.09766793531086
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                4197,
+                6258
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.902270685360138,
+                52.4686210428709
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                0,
+                6258
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.240039330951261,
+                52.46964966503825
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "urn:uuid:4b8692b1-2a23-4926-83f9-b9673a030097",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://gist.bk.tudelft.nl/~bmmeijers/volatile/2026/heuvelink/blz026/",
+          "type": "ImageService2",
+          "height": 6261,
+          "width": 4199
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"4199\" height=\"6261\"><polygon points=\"0,0 4199,0 4199,6261 0,6261\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "ThinPlateSpline",
+          "order": 1
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                0,
+                0
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.90972260482245,
+                53.09766793531086
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                4199,
+                0
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                6.5814259829014965,
+                53.0928532289731
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                4199,
+                6261
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                6.564400299040583,
+                52.46389454544561
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                0,
+                6261
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.902270685360138,
+                52.4686210428709
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "urn:uuid:d2c35559-7086-4f82-8c78-4dc27660fa92",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://gist.bk.tudelft.nl/~bmmeijers/volatile/2026/heuvelink/blz027/",
+          "type": "ImageService2",
+          "height": 6250,
+          "width": 4181
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"4181\" height=\"6250\"><polygon points=\"0,0 4181,0 4181,6250 0,6250\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "ThinPlateSpline",
+          "order": 1
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                0,
+                0
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                6.5814259829014965,
+                53.0928532289731
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                4181,
+                0
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                7.252891876637539,
+                53.084273463927595
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                4181,
+                6250
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                7.226304531125981,
+                52.45546986462669
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                0,
+                6250
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                6.564400299040583,
+                52.46389454544561
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "urn:uuid:c760a80c-2f64-4fa7-9aaf-1e6f1d6fcfd1",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://gist.bk.tudelft.nl/~bmmeijers/volatile/2026/heuvelink/blz028/",
+          "type": "ImageService2",
+          "height": 6247,
+          "width": 4181
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"4181\" height=\"6247\"><polygon points=\"0,0 4181,0 4181,6247 0,6247\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "ThinPlateSpline",
+          "order": 1
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                0,
+                0
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                3.9157946163209636,
+                52.46061000808471
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                4181,
+                0
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.577839418125869,
+                52.46697875390306
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                4181,
+                6247
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.5891672739683065,
+                51.837875364723914
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                0,
+                6247
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                3.936383686830924,
+                51.831621589840395
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "urn:uuid:c8bc8a54-71a1-4c41-8ecd-371c3ffeb51f",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://gist.bk.tudelft.nl/~bmmeijers/volatile/2026/heuvelink/blz029/",
+          "type": "ImageService2",
+          "height": 6262,
+          "width": 4198
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"4198\" height=\"6262\"><polygon points=\"0,0 4198,0 4198,6262 0,6262\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "ThinPlateSpline",
+          "order": 1
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                0,
+                0
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.577839418125869,
+                52.46697875390306
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                4198,
+                0
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.240039330951261,
+                52.46964966503825
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                4198,
+                6262
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.242098125798322,
+                51.8404977282376
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                0,
+                6262
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.5891672739683065,
+                51.837875364723914
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "urn:uuid:5f77f357-4e69-41fa-b0d7-7bc8a79bdfec",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://gist.bk.tudelft.nl/~bmmeijers/volatile/2026/heuvelink/blz030/",
+          "type": "ImageService2",
+          "height": 6254,
+          "width": 4172
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"4172\" height=\"6254\"><polygon points=\"0,0 4172,0 4172,6254 0,6254\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "ThinPlateSpline",
+          "order": 1
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                0,
+                0
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.240039330951261,
+                52.46964966503825
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                4172,
+                0
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.902270685360138,
+                52.4686210428709
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                4172,
+                6254
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.895056453717359,
+                51.83948724876431
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                0,
+                6254
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.242098125798322,
+                51.8404977282376
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "urn:uuid:e6273813-8cd1-48f4-a66d-71fb5d3acb95",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://gist.bk.tudelft.nl/~bmmeijers/volatile/2026/heuvelink/blz031/",
+          "type": "ImageService2",
+          "height": 6251,
+          "width": 4180
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"4180\" height=\"6251\"><polygon points=\"0,0 4180,0 4180,6251 0,6251\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "ThinPlateSpline",
+          "order": 1
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                0,
+                0
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.902270685360138,
+                52.4686210428709
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                4180,
+                0
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                6.564400299040583,
+                52.46389454544561
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                4180,
+                6251
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                6.547920894673039,
+                51.83484645703494
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                0,
+                6251
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.895056453717359,
+                51.83948724876431
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "urn:uuid:604586dc-ef32-4212-ba54-babfaaff5bc1",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://gist.bk.tudelft.nl/~bmmeijers/volatile/2026/heuvelink/blz032/",
+          "type": "ImageService2",
+          "height": 6244,
+          "width": 4117
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"4117\" height=\"6244\"><polygon points=\"0,0 4117,0 4117,6244 0,6244\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "ThinPlateSpline",
+          "order": 1
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                0,
+                0
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                6.564400299040583,
+                52.46389454544561
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                4117,
+                0
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                7.226304531125981,
+                52.45546986462669
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                4117,
+                6244
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                7.200569316767215,
+                51.82657458210634
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                0,
+                6244
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                6.547920894673039,
+                51.83484645703494
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "urn:uuid:e60a78a6-ac5f-43a0-88e9-4b46b07c6676",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://gist.bk.tudelft.nl/~bmmeijers/volatile/2026/heuvelink/blz033/",
+          "type": "ImageService2",
+          "height": 6264,
+          "width": 4192
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"4192\" height=\"6264\"><polygon points=\"0,0 4192,0 4192,6264 0,6264\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "ThinPlateSpline",
+          "order": 1
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                0,
+                0
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                3.283871048444449,
+                51.82173954911105
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                4192,
+                0
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                3.936383686830924,
+                51.831621589840395
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                4192,
+                6264
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                3.9563204511800847,
+                51.20258108753428
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                0,
+                6264
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                3.3127656876245117,
+                51.19287552462969
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "urn:uuid:ed266087-96d9-4a92-a7a5-8fb36c4152b3",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://gist.bk.tudelft.nl/~bmmeijers/volatile/2026/heuvelink/blz034/",
+          "type": "ImageService2",
+          "height": 6239,
+          "width": 4181
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"4181\" height=\"6239\"><polygon points=\"0,0 4181,0 4181,6239 0,6239\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "ThinPlateSpline",
+          "order": 1
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                0,
+                0
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                3.936383686830924,
+                51.831621589840395
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                4181,
+                0
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.5891672739683065,
+                51.837875364723914
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                4181,
+                6239
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.600134527034412,
+                51.208721936838316
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                0,
+                6239
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                3.9563204511800847,
+                51.20258108753428
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "urn:uuid:ea1f22fc-2b6a-4420-babb-721707ebc398",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://gist.bk.tudelft.nl/~bmmeijers/volatile/2026/heuvelink/blz035/",
+          "type": "ImageService2",
+          "height": 6251,
+          "width": 4187
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"4187\" height=\"6251\"><polygon points=\"0,0 4187,0 4187,6251 0,6251\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "ThinPlateSpline",
+          "order": 1
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                0,
+                0
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.5891672739683065,
+                51.837875364723914
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                4187,
+                0
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.242098125798322,
+                51.8404977282376
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                4187,
+                6251
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.244090561573148,
+                51.21129707757473
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                0,
+                6251
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.600134527034412,
+                51.208721936838316
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "urn:uuid:c508d0d0-2bd9-4359-b6e7-0402639167ac",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://gist.bk.tudelft.nl/~bmmeijers/volatile/2026/heuvelink/blz036/",
+          "type": "ImageService2",
+          "height": 6262,
+          "width": 4188
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"4188\" height=\"6262\"><polygon points=\"0,0 4188,0 4188,6262 0,6262\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "ThinPlateSpline",
+          "order": 1
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                0,
+                0
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.242098125798322,
+                51.8404977282376
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                4188,
+                0
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.895056453717359,
+                51.83948724876431
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                4188,
+                6262
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.888071294547791,
+                51.21030495008602
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                0,
+                6262
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.244090561573148,
+                51.21129707757473
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "urn:uuid:ac479695-8520-4db6-a933-c4cf8e567b25",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://gist.bk.tudelft.nl/~bmmeijers/volatile/2026/heuvelink/blz037/",
+          "type": "ImageService2",
+          "height": 6246,
+          "width": 4179
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"4179\" height=\"6246\"><polygon points=\"0,0 4179,0 4179,6246 0,6246\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "ThinPlateSpline",
+          "order": 1
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                0,
+                0
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.895056453717359,
+                51.83948724876431
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                4179,
+                0
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                6.547920894673039,
+                51.83484645703494
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                4179,
+                6246
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                6.531964279097018,
+                51.20574638673872
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                0,
+                6246
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.888071294547791,
+                51.21030495008602
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "urn:uuid:40bd1771-dff4-4f5d-81d3-50bb1775a572",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://gist.bk.tudelft.nl/~bmmeijers/volatile/2026/heuvelink/blz038/",
+          "type": "ImageService2",
+          "height": 6268,
+          "width": 4193
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"4193\" height=\"6268\"><polygon points=\"0,0 4193,0 4193,6268 0,6268\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "ThinPlateSpline",
+          "order": 1
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                0,
+                0
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.244090561573148,
+                51.21129707757473
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                4193,
+                0
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.888071294547791,
+                51.21030495008602
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                4193,
+                6268
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.881306118788001,
+                50.581110154170375
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                0,
+                6268
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.246020298175188,
+                50.58208492638618
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "urn:uuid:88f5fc77-3f6e-4820-8908-dbee4238bc53",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://gist.bk.tudelft.nl/~bmmeijers/volatile/2026/heuvelink/blz039/",
+          "type": "ImageService2",
+          "height": 6247,
+          "width": 4192
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"4192\" height=\"6247\"><polygon points=\"0,0 4192,0 4192,6247 0,6247\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "ThinPlateSpline",
+          "order": 1
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                0,
+                0
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.888071294547791,
+                51.21030495008602
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                4192,
+                0
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                6.531964279097018,
+                51.20574638673872
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                4192,
+                6247
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                6.516506501703262,
+                50.57663349142717
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                0,
+                6247
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.881306118788001,
+                50.581110154170375
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
