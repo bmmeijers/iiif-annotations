@@ -1,0 +1,2446 @@
+{
+  "type": "AnnotationPage",
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "items": [
+    {
+      "id": "urn:map-series-editor:map:https%3A%2F%2Fcdm21033.contentdm.oclc.org%2Fiiif%2F2%2Fkrt%3A3965:1",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://cdm21033.contentdm.oclc.org/iiif/2/krt:3965",
+          "type": "ImageService2",
+          "height": 3245,
+          "width": 2311,
+          "partOf": [
+            {
+              "id": "https://cdm21033.contentdm.oclc.org/iiif/krt:3965/canvas/c1",
+              "type": "Canvas",
+              "label": {
+                "none": [
+                  "Bladwijzer"
+                ]
+              },
+              "partOf": [
+                {
+                  "id": "https://cdm21033.contentdm.oclc.org/iiif/krt:3985/manifest.json",
+                  "type": "Manifest",
+                  "label": {
+                    "none": [
+                      "Topografische atlas van het Koninkrijk der Nederlanden"
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"2311\" height=\"3245\"><polygon points=\"277,503 2039,506 2034,2715 268,2714\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "thinPlateSpline"
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                276.73323832617825,
+                502.92913709255475
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                6.3262955,
+                51.5805863
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                2038.946484098671,
+                506.13394532510995
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                7.1914979,
+                51.5667619
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                2033.5552585315363,
+                2714.696719345367
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                7.1471212,
+                50.6682895
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                268.3301591850056,
+                2714.433206630966
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                6.2985278,
+                50.681849
+              ]
+            }
+          }
+        ],
+        "_allmaps": {
+          "mapEdgeAssist": {
+            "status": "confirmed",
+            "confirmedAt": 1794234299433
+          }
+        }
+      }
+    },
+    {
+      "id": "urn:map-series-editor:map:https%3A%2F%2Fcdm21033.contentdm.oclc.org%2Fiiif%2F2%2Fkrt%3A3966:1",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://cdm21033.contentdm.oclc.org/iiif/2/krt:3966",
+          "type": "ImageService2",
+          "height": 2295,
+          "width": 3266,
+          "partOf": [
+            {
+              "id": "https://cdm21033.contentdm.oclc.org/iiif/krt:3966/canvas/c2",
+              "type": "Canvas",
+              "label": {
+                "none": [
+                  "1"
+                ]
+              },
+              "partOf": [
+                {
+                  "id": "https://cdm21033.contentdm.oclc.org/iiif/krt:3985/manifest.json",
+                  "type": "Manifest",
+                  "label": {
+                    "none": [
+                      "Topografische atlas van het Koninkrijk der Nederlanden"
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"3266\" height=\"2295\"><polygon points=\"363,374 2907,375 2909,1971 363,1972\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "thinPlateSpline"
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                362.89605760616735,
+                374.1650498476798
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.1873986,
+                53.8357513
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                2906.7238015026737,
+                374.9859935655724
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                6.40242,
+                53.8267963
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                2908.5366069144516,
+                1970.6654060027981
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                6.3863736,
+                53.3776263
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                363.08499984520097,
+                1971.7853008302864
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.1841749,
+                53.38649
+              ]
+            }
+          }
+        ],
+        "_allmaps": {
+          "mapEdgeAssist": {
+            "status": "confirmed",
+            "confirmedAt": 1794234301570
+          }
+        }
+      }
+    },
+    {
+      "id": "urn:map-series-editor:map:https%3A%2F%2Fcdm21033.contentdm.oclc.org%2Fiiif%2F2%2Fkrt%3A3967:1",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://cdm21033.contentdm.oclc.org/iiif/2/krt:3967",
+          "type": "ImageService2",
+          "height": 2310,
+          "width": 3246,
+          "partOf": [
+            {
+              "id": "https://cdm21033.contentdm.oclc.org/iiif/krt:3967/canvas/c3",
+              "type": "Canvas",
+              "label": {
+                "none": [
+                  "2"
+                ]
+              },
+              "partOf": [
+                {
+                  "id": "https://cdm21033.contentdm.oclc.org/iiif/krt:3985/manifest.json",
+                  "type": "Manifest",
+                  "label": {
+                    "none": [
+                      "Topografische atlas van het Koninkrijk der Nederlanden"
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"3246\" height=\"2310\"><polygon points=\"672,353 2597,344 2609,1942 686,1954\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "thinPlateSpline"
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                671.7995562455116,
+                353.3586939653979
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                6.40242,
+                53.8267963
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                2597.369595173622,
+                344.10527692593837
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                7.3131494,
+                53.8122616
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                2608.5287222308216,
+                1941.607401506438
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                7.2875071,
+                53.3632395
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                686.0319316245221,
+                1953.8861485216082
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                6.3863736,
+                53.3776263
+              ]
+            }
+          }
+        ],
+        "_allmaps": {
+          "mapEdgeAssist": {
+            "status": "confirmed",
+            "confirmedAt": 1794234302354
+          }
+        }
+      }
+    },
+    {
+      "id": "urn:map-series-editor:map:https%3A%2F%2Fcdm21033.contentdm.oclc.org%2Fiiif%2F2%2Fkrt%3A3968:1",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://cdm21033.contentdm.oclc.org/iiif/2/krt:3968",
+          "type": "ImageService2",
+          "height": 2312,
+          "width": 3243,
+          "partOf": [
+            {
+              "id": "https://cdm21033.contentdm.oclc.org/iiif/krt:3968/canvas/c4",
+              "type": "Canvas",
+              "label": {
+                "none": [
+                  "3"
+                ]
+              },
+              "partOf": [
+                {
+                  "id": "https://cdm21033.contentdm.oclc.org/iiif/krt:3985/manifest.json",
+                  "type": "Manifest",
+                  "label": {
+                    "none": [
+                      "Topografische atlas van het Koninkrijk der Nederlanden"
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"3243\" height=\"2312\"><polygon points=\"338,335 2886,347 2886,1928 334,1920\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "thinPlateSpline"
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                337.79100179261076,
+                334.9740269236817
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                3.9818072,
+                53.3835552
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                2886.426271836553,
+                346.9842451037105
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.1841749,
+                53.38649
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                2886.435986842482,
+                1928.3708926129443
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.1810367,
+                52.9371948
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                333.5750111033019,
+                1920.0705048080058
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                3.9911584,
+                52.9342895
+              ]
+            }
+          }
+        ],
+        "_allmaps": {
+          "mapEdgeAssist": {
+            "status": "confirmed",
+            "confirmedAt": 1794234303161
+          }
+        }
+      }
+    },
+    {
+      "id": "urn:map-series-editor:map:https%3A%2F%2Fcdm21033.contentdm.oclc.org%2Fiiif%2F2%2Fkrt%3A3969:1",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://cdm21033.contentdm.oclc.org/iiif/2/krt:3969",
+          "type": "ImageService2",
+          "height": 2296,
+          "width": 3265,
+          "partOf": [
+            {
+              "id": "https://cdm21033.contentdm.oclc.org/iiif/krt:3969/canvas/c5",
+              "type": "Canvas",
+              "label": {
+                "none": [
+                  "4"
+                ]
+              },
+              "partOf": [
+                {
+                  "id": "https://cdm21033.contentdm.oclc.org/iiif/krt:3985/manifest.json",
+                  "type": "Manifest",
+                  "label": {
+                    "none": [
+                      "Topografische atlas van het Koninkrijk der Nederlanden"
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"3265\" height=\"2296\"><polygon points=\"313,369 2859,382 2859,1972 314,1963\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "thinPlateSpline"
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                313.4524884067741,
+                369.0132620833742
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.1841749,
+                53.38649
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                2858.5534315733316,
+                381.8183326252399
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                6.3863736,
+                53.3776263
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                2859.3183494318105,
+                1972.3447923956735
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                6.3707526,
+                52.9284204
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                314.3159512953288,
+                1963.3417270125353
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.1810367,
+                52.9371948
+              ]
+            }
+          }
+        ],
+        "_allmaps": {
+          "mapEdgeAssist": {
+            "status": "confirmed",
+            "confirmedAt": 1794234303793
+          }
+        }
+      }
+    },
+    {
+      "id": "urn:map-series-editor:map:https%3A%2F%2Fcdm21033.contentdm.oclc.org%2Fiiif%2F2%2Fkrt%3A3970:1",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://cdm21033.contentdm.oclc.org/iiif/2/krt:3970",
+          "type": "ImageService2",
+          "height": 2294,
+          "width": 3268,
+          "partOf": [
+            {
+              "id": "https://cdm21033.contentdm.oclc.org/iiif/krt:3970/canvas/c6",
+              "type": "Canvas",
+              "label": {
+                "none": [
+                  "5"
+                ]
+              },
+              "partOf": [
+                {
+                  "id": "https://cdm21033.contentdm.oclc.org/iiif/krt:3985/manifest.json",
+                  "type": "Manifest",
+                  "label": {
+                    "none": [
+                      "Topografische atlas van het Koninkrijk der Nederlanden"
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"3268\" height=\"2294\"><polygon points=\"672,362 2581,350 2594,1949 684,1962\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "thinPlateSpline"
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                672.2668808587439,
+                361.7604195250063
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                6.3863736,
+                53.3776263
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                2580.7527242677884,
+                350.14517900112327
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                7.2875071,
+                53.3632395
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                2593.5155033200995,
+                1949.3306980602329
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                7.2625441,
+                52.9141785
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                683.7995273698469,
+                1961.7325174441048
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                6.3707526,
+                52.9284204
+              ]
+            }
+          }
+        ],
+        "_allmaps": {
+          "mapEdgeAssist": {
+            "status": "confirmed",
+            "confirmedAt": 1794234304474
+          }
+        }
+      }
+    },
+    {
+      "id": "urn:map-series-editor:map:https%3A%2F%2Fcdm21033.contentdm.oclc.org%2Fiiif%2F2%2Fkrt%3A3971:1",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://cdm21033.contentdm.oclc.org/iiif/2/krt:3971",
+          "type": "ImageService2",
+          "height": 2295,
+          "width": 3266,
+          "partOf": [
+            {
+              "id": "https://cdm21033.contentdm.oclc.org/iiif/krt:3971/canvas/c7",
+              "type": "Canvas",
+              "label": {
+                "none": [
+                  "6"
+                ]
+              },
+              "partOf": [
+                {
+                  "id": "https://cdm21033.contentdm.oclc.org/iiif/krt:3985/manifest.json",
+                  "type": "Manifest",
+                  "label": {
+                    "none": [
+                      "Topografische atlas van het Koninkrijk der Nederlanden"
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"3266\" height=\"2295\"><polygon points=\"376,343 2927,339 2937,1925 385,1930\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "thinPlateSpline"
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                376.1322483410926,
+                343.3744417200366
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                3.9911584,
+                52.9342895
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                2927.074403955215,
+                339.35217835002373
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.1810367,
+                52.9371948
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                2937.2731164911247,
+                1924.908123249326
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.1779809,
+                52.4878654
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                384.7910771084863,
+                1929.8350884288263
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.0002637,
+                52.484989
+              ]
+            }
+          }
+        ],
+        "_allmaps": {
+          "mapEdgeAssist": {
+            "status": "confirmed",
+            "confirmedAt": 1794234305426
+          }
+        }
+      }
+    },
+    {
+      "id": "urn:map-series-editor:map:https%3A%2F%2Fcdm21033.contentdm.oclc.org%2Fiiif%2F2%2Fkrt%3A3972:1",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://cdm21033.contentdm.oclc.org/iiif/2/krt:3972",
+          "type": "ImageService2",
+          "height": 2296,
+          "width": 3265,
+          "partOf": [
+            {
+              "id": "https://cdm21033.contentdm.oclc.org/iiif/krt:3972/canvas/c8",
+              "type": "Canvas",
+              "label": {
+                "none": [
+                  "7"
+                ]
+              },
+              "partOf": [
+                {
+                  "id": "https://cdm21033.contentdm.oclc.org/iiif/krt:3985/manifest.json",
+                  "type": "Manifest",
+                  "label": {
+                    "none": [
+                      "Topografische atlas van het Koninkrijk der Nederlanden"
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"3265\" height=\"2296\"><polygon points=\"338,350 2892,353 2892,1943 336,1942\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "thinPlateSpline"
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                337.72669843877827,
+                350.27565844175973
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.1810367,
+                52.9371948
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                2891.9949725128313,
+                353.32946745200127
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                6.3707526,
+                52.9284204
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                2891.8499287443774,
+                1943.2500692424037
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                6.3555419,
+                52.4791784
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                336.0021760208513,
+                1941.8368462250428
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.1779809,
+                52.4878654
+              ]
+            }
+          }
+        ],
+        "_allmaps": {
+          "mapEdgeAssist": {
+            "status": "confirmed",
+            "confirmedAt": 1794234306033
+          }
+        }
+      }
+    },
+    {
+      "id": "urn:map-series-editor:map:https%3A%2F%2Fcdm21033.contentdm.oclc.org%2Fiiif%2F2%2Fkrt%3A3973:1",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://cdm21033.contentdm.oclc.org/iiif/2/krt:3973",
+          "type": "ImageService2",
+          "height": 2299,
+          "width": 3261,
+          "partOf": [
+            {
+              "id": "https://cdm21033.contentdm.oclc.org/iiif/krt:3973/canvas/c9",
+              "type": "Canvas",
+              "label": {
+                "none": [
+                  "8"
+                ]
+              },
+              "partOf": [
+                {
+                  "id": "https://cdm21033.contentdm.oclc.org/iiif/krt:3985/manifest.json",
+                  "type": "Manifest",
+                  "label": {
+                    "none": [
+                      "Topografische atlas van het Koninkrijk der Nederlanden"
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"3261\" height=\"2299\"><polygon points=\"674,353 2593,348 2603,1938 681,1944\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "thinPlateSpline"
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                674.0498758496087,
+                353.0243170335288
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                6.3707526,
+                52.9284204
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                2592.7280760310045,
+                348.1538199933646
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                7.2625441,
+                52.9141785
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                2602.7153728213307,
+                1938.341226256644
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                7.2382366,
+                52.4650785
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                680.8814673263371,
+                1944.4149503853864
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                6.3555419,
+                52.4791784
+              ]
+            }
+          }
+        ],
+        "_allmaps": {
+          "mapEdgeAssist": {
+            "status": "confirmed",
+            "confirmedAt": 1794234306577
+          }
+        }
+      }
+    },
+    {
+      "id": "urn:map-series-editor:map:https%3A%2F%2Fcdm21033.contentdm.oclc.org%2Fiiif%2F2%2Fkrt%3A3974:1",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://cdm21033.contentdm.oclc.org/iiif/2/krt:3974",
+          "type": "ImageService2",
+          "height": 2305,
+          "width": 3252,
+          "partOf": [
+            {
+              "id": "https://cdm21033.contentdm.oclc.org/iiif/krt:3974/canvas/c10",
+              "type": "Canvas",
+              "label": {
+                "none": [
+                  "9"
+                ]
+              },
+              "partOf": [
+                {
+                  "id": "https://cdm21033.contentdm.oclc.org/iiif/krt:3985/manifest.json",
+                  "type": "Manifest",
+                  "label": {
+                    "none": [
+                      "Topografische atlas van het Koninkrijk der Nederlanden"
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"3252\" height=\"2305\"><polygon points=\"358,333 2898,327 2908,1903 366,1912\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "thinPlateSpline"
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                357.986676882344,
+                333.11130314493244
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.0002637,
+                52.484989
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                2897.503848686221,
+                326.73140270956173
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.1779809,
+                52.4878654
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                2907.888560884509,
+                1903.3754900065971
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.1750047,
+                52.0385016
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                366.17855346732995,
+                1911.799864124726
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.0091318,
+                52.0356536
+              ]
+            }
+          }
+        ],
+        "_allmaps": {
+          "mapEdgeAssist": {
+            "status": "confirmed",
+            "confirmedAt": 1794234307130
+          }
+        }
+      }
+    },
+    {
+      "id": "urn:map-series-editor:map:https%3A%2F%2Fcdm21033.contentdm.oclc.org%2Fiiif%2F2%2Fkrt%3A3975:1",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://cdm21033.contentdm.oclc.org/iiif/2/krt:3975",
+          "type": "ImageService2",
+          "height": 2288,
+          "width": 3277,
+          "partOf": [
+            {
+              "id": "https://cdm21033.contentdm.oclc.org/iiif/krt:3975/canvas/c11",
+              "type": "Canvas",
+              "label": {
+                "none": [
+                  "10"
+                ]
+              },
+              "partOf": [
+                {
+                  "id": "https://cdm21033.contentdm.oclc.org/iiif/krt:3985/manifest.json",
+                  "type": "Manifest",
+                  "label": {
+                    "none": [
+                      "Topografische atlas van het Koninkrijk der Nederlanden"
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"3277\" height=\"2288\"><polygon points=\"372,342 2908,341 2917,1935 376,1939\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "thinPlateSpline"
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                372.363066289555,
+                342.48515733275667
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.1779809,
+                52.4878654
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                2907.564510908444,
+                340.6396420617575
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                6.3555419,
+                52.4791784
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                2917.152638361974,
+                1934.562508828035
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                6.3407274,
+                52.0299004
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                376.3797549238406,
+                1938.5251140309722
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.1750047,
+                52.0385016
+              ]
+            }
+          }
+        ],
+        "_allmaps": {
+          "mapEdgeAssist": {
+            "status": "confirmed",
+            "confirmedAt": 1794234307585
+          }
+        }
+      }
+    },
+    {
+      "id": "urn:map-series-editor:map:https%3A%2F%2Fcdm21033.contentdm.oclc.org%2Fiiif%2F2%2Fkrt%3A3976:1",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://cdm21033.contentdm.oclc.org/iiif/2/krt:3976",
+          "type": "ImageService2",
+          "height": 2299,
+          "width": 3260,
+          "partOf": [
+            {
+              "id": "https://cdm21033.contentdm.oclc.org/iiif/krt:3976/canvas/c12",
+              "type": "Canvas",
+              "label": {
+                "none": [
+                  "11"
+                ]
+              },
+              "partOf": [
+                {
+                  "id": "https://cdm21033.contentdm.oclc.org/iiif/krt:3985/manifest.json",
+                  "type": "Manifest",
+                  "label": {
+                    "none": [
+                      "Topografische atlas van het Koninkrijk der Nederlanden"
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"3260\" height=\"2299\"><polygon points=\"678,346 2571,344 2577,1930 681,1933\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "thinPlateSpline"
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                677.9783758494041,
+                345.7696388585684
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                6.3555419,
+                52.4791784
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                2570.593704472456,
+                344.43251171023013
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                7.2382366,
+                52.4650785
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                2576.8193072054405,
+                1929.8013825805917
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                7.2145618,
+                52.0159397
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                680.7666061019767,
+                1933.13827905679
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                6.3407274,
+                52.0299004
+              ]
+            }
+          }
+        ],
+        "_allmaps": {
+          "mapEdgeAssist": {
+            "status": "confirmed",
+            "confirmedAt": 1794234308057
+          }
+        }
+      }
+    },
+    {
+      "id": "urn:map-series-editor:map:https%3A%2F%2Fcdm21033.contentdm.oclc.org%2Fiiif%2F2%2Fkrt%3A3977:1",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://cdm21033.contentdm.oclc.org/iiif/2/krt:3977",
+          "type": "ImageService2",
+          "height": 2290,
+          "width": 3275,
+          "partOf": [
+            {
+              "id": "https://cdm21033.contentdm.oclc.org/iiif/krt:3977/canvas/c13",
+              "type": "Canvas",
+              "label": {
+                "none": [
+                  "12"
+                ]
+              },
+              "partOf": [
+                {
+                  "id": "https://cdm21033.contentdm.oclc.org/iiif/krt:3985/manifest.json",
+                  "type": "Manifest",
+                  "label": {
+                    "none": [
+                      "Topografische atlas van het Koninkrijk der Nederlanden"
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"3275\" height=\"2290\"><polygon points=\"666,343 2573,337 2577,1932 671,1941\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "thinPlateSpline"
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                665.8282678066469,
+                343.2526249348739
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                3.134988,
+                52.0260052
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                2572.8487133182207,
+                336.7161190548129
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.0091318,
+                52.0356536
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                2576.668909721258,
+                1931.522364481818
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.0177706,
+                51.5862832
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                671.1324257971471,
+                1941.398345321242
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                3.1522706,
+                51.576729
+              ]
+            }
+          }
+        ],
+        "_allmaps": {
+          "mapEdgeAssist": {
+            "status": "confirmed",
+            "confirmedAt": 1794234308633
+          }
+        }
+      }
+    },
+    {
+      "id": "urn:map-series-editor:map:https%3A%2F%2Fcdm21033.contentdm.oclc.org%2Fiiif%2F2%2Fkrt%3A3978:1",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://cdm21033.contentdm.oclc.org/iiif/2/krt:3978",
+          "type": "ImageService2",
+          "height": 2290,
+          "width": 3274,
+          "partOf": [
+            {
+              "id": "https://cdm21033.contentdm.oclc.org/iiif/krt:3978/canvas/c14",
+              "type": "Canvas",
+              "label": {
+                "none": [
+                  "13"
+                ]
+              },
+              "partOf": [
+                {
+                  "id": "https://cdm21033.contentdm.oclc.org/iiif/krt:3985/manifest.json",
+                  "type": "Manifest",
+                  "label": {
+                    "none": [
+                      "Topografische atlas van het Koninkrijk der Nederlanden"
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"3274\" height=\"2290\"><polygon points=\"388,325 2922,328 2923,1917 386,1917\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "thinPlateSpline"
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                388.28222601448823,
+                325.2788497790109
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.0091318,
+                52.0356536
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                2921.5206108228163,
+                327.80219860295165
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.1750047,
+                52.0385016
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                2922.7086107958044,
+                1916.6031354695328
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.1721053,
+                51.5891033
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                385.53872321303805,
+                1917.4506325477792
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.0177706,
+                51.5862832
+              ]
+            }
+          }
+        ],
+        "_allmaps": {
+          "mapEdgeAssist": {
+            "status": "confirmed",
+            "confirmedAt": 1794234309141
+          }
+        }
+      }
+    },
+    {
+      "id": "urn:map-series-editor:map:https%3A%2F%2Fcdm21033.contentdm.oclc.org%2Fiiif%2F2%2Fkrt%3A3979:1",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://cdm21033.contentdm.oclc.org/iiif/2/krt:3979",
+          "type": "ImageService2",
+          "height": 2303,
+          "width": 3256,
+          "partOf": [
+            {
+              "id": "https://cdm21033.contentdm.oclc.org/iiif/krt:3979/canvas/c15",
+              "type": "Canvas",
+              "label": {
+                "none": [
+                  "14"
+                ]
+              },
+              "partOf": [
+                {
+                  "id": "https://cdm21033.contentdm.oclc.org/iiif/krt:3985/manifest.json",
+                  "type": "Manifest",
+                  "label": {
+                    "none": [
+                      "Topografische atlas van het Koninkrijk der Nederlanden"
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"3256\" height=\"2303\"><polygon points=\"367,349 2903,351 2905,1944 365,1945\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "thinPlateSpline"
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                366.8182272620817,
+                349.44884927960146
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.1750047,
+                52.0385016
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                2902.611798131265,
+                350.8964923090822
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                6.3407274,
+                52.0299004
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                2905.330510297138,
+                1943.6077105276893
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                6.3262955,
+                51.5805863
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                364.9711398119912,
+                1945.2758904502912
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.1721053,
+                51.5891033
+              ]
+            }
+          }
+        ],
+        "_allmaps": {
+          "mapEdgeAssist": {
+            "status": "confirmed",
+            "confirmedAt": 1794234309690
+          }
+        }
+      }
+    },
+    {
+      "id": "urn:map-series-editor:map:https%3A%2F%2Fcdm21033.contentdm.oclc.org%2Fiiif%2F2%2Fkrt%3A3980:1",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://cdm21033.contentdm.oclc.org/iiif/2/krt:3980",
+          "type": "ImageService2",
+          "height": 2281,
+          "width": 3287,
+          "partOf": [
+            {
+              "id": "https://cdm21033.contentdm.oclc.org/iiif/krt:3980/canvas/c16",
+              "type": "Canvas",
+              "label": {
+                "none": [
+                  "15"
+                ]
+              },
+              "partOf": [
+                {
+                  "id": "https://cdm21033.contentdm.oclc.org/iiif/krt:3985/manifest.json",
+                  "type": "Manifest",
+                  "label": {
+                    "none": [
+                      "Topografische atlas van het Koninkrijk der Nederlanden"
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"3287\" height=\"2281\"><polygon points=\"686,338 2597,316 2627,1916 715,1940\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "thinPlateSpline"
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                686.273448271391,
+                337.77821570209954
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                6.3407274,
+                52.0299004
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                2597.302830207714,
+                315.61928816219887
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                7.2145618,
+                52.0159397
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                2627.44332855243,
+                1916.0821628137942
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                7.1914979,
+                51.5667619
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                715.1104297884697,
+                1940.116017836635
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                6.3262955,
+                51.5805863
+              ]
+            }
+          }
+        ],
+        "_allmaps": {
+          "mapEdgeAssist": {
+            "status": "confirmed",
+            "confirmedAt": 1794234310274
+          }
+        }
+      }
+    },
+    {
+      "id": "urn:map-series-editor:map:https%3A%2F%2Fcdm21033.contentdm.oclc.org%2Fiiif%2F2%2Fkrt%3A3981:1",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://cdm21033.contentdm.oclc.org/iiif/2/krt:3981",
+          "type": "ImageService2",
+          "height": 2295,
+          "width": 3266,
+          "partOf": [
+            {
+              "id": "https://cdm21033.contentdm.oclc.org/iiif/krt:3981/canvas/c17",
+              "type": "Canvas",
+              "label": {
+                "none": [
+                  "16"
+                ]
+              },
+              "partOf": [
+                {
+                  "id": "https://cdm21033.contentdm.oclc.org/iiif/krt:3985/manifest.json",
+                  "type": "Manifest",
+                  "label": {
+                    "none": [
+                      "Topografische atlas van het Koninkrijk der Nederlanden"
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"3266\" height=\"2295\"><polygon points=\"688,356 2589,354 2592,1946 690,1948\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "thinPlateSpline"
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                687.9681913828662,
+                355.8269616012752
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                3.1522706,
+                51.576729
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                2588.513971592813,
+                354.11207721725486
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.0177706,
+                51.5862832
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                2592.4155095636197,
+                1945.6343619554198
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.0261881,
+                51.1368776
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                689.7700480854177,
+                1948.2855506552398
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                3.1691105,
+                51.1274159
+              ]
+            }
+          }
+        ],
+        "_allmaps": {
+          "mapEdgeAssist": {
+            "status": "confirmed",
+            "confirmedAt": 1794234310850
+          }
+        }
+      }
+    },
+    {
+      "id": "urn:map-series-editor:map:https%3A%2F%2Fcdm21033.contentdm.oclc.org%2Fiiif%2F2%2Fkrt%3A3982:1",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://cdm21033.contentdm.oclc.org/iiif/2/krt:3982",
+          "type": "ImageService2",
+          "height": 2289,
+          "width": 3275,
+          "partOf": [
+            {
+              "id": "https://cdm21033.contentdm.oclc.org/iiif/krt:3982/canvas/c18",
+              "type": "Canvas",
+              "label": {
+                "none": [
+                  "17"
+                ]
+              },
+              "partOf": [
+                {
+                  "id": "https://cdm21033.contentdm.oclc.org/iiif/krt:3985/manifest.json",
+                  "type": "Manifest",
+                  "label": {
+                    "none": [
+                      "Topografische atlas van het Koninkrijk der Nederlanden"
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"3275\" height=\"2289\"><polygon points=\"342,360 2888,355 2897,1957 348,1964\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "thinPlateSpline"
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                341.8407128763225,
+                360.0997380861533
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.0177706,
+                51.5862832
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                2887.659833633122,
+                354.56365847328976
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.1721053,
+                51.5891033
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                2896.916177448256,
+                1956.5400485949276
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.16928,
+                51.1396704
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                348.3041564227201,
+                1963.926357217353
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                4.0261881,
+                51.1368776
+              ]
+            }
+          }
+        ],
+        "_allmaps": {
+          "mapEdgeAssist": {
+            "status": "confirmed",
+            "confirmedAt": 1794234311426
+          }
+        }
+      }
+    },
+    {
+      "id": "urn:map-series-editor:map:https%3A%2F%2Fcdm21033.contentdm.oclc.org%2Fiiif%2F2%2Fkrt%3A3983:1",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://cdm21033.contentdm.oclc.org/iiif/2/krt:3983",
+          "type": "ImageService2",
+          "height": 2294,
+          "width": 3269,
+          "partOf": [
+            {
+              "id": "https://cdm21033.contentdm.oclc.org/iiif/krt:3983/canvas/c19",
+              "type": "Canvas",
+              "label": {
+                "none": [
+                  "18"
+                ]
+              },
+              "partOf": [
+                {
+                  "id": "https://cdm21033.contentdm.oclc.org/iiif/krt:3985/manifest.json",
+                  "type": "Manifest",
+                  "label": {
+                    "none": [
+                      "Topografische atlas van het Koninkrijk der Nederlanden"
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"3269\" height=\"2294\"><polygon points=\"360,367 2908,359 2919,1963 365,1974\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "thinPlateSpline"
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                359.9955204129489,
+                366.5016144821999
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.1721053,
+                51.5891033
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                2907.7114542149325,
+                358.7905756336412
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                6.3262955,
+                51.5805863
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                2918.8320063459796,
+                1963.3608027374585
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                6.312233,
+                51.1312358
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                365.09116534907685,
+                1973.5019441169613
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.16928,
+                51.1396704
+              ]
+            }
+          }
+        ],
+        "_allmaps": {
+          "mapEdgeAssist": {
+            "status": "confirmed",
+            "confirmedAt": 1794234311995
+          }
+        }
+      }
+    },
+    {
+      "id": "urn:map-series-editor:map:https%3A%2F%2Fcdm21033.contentdm.oclc.org%2Fiiif%2F2%2Fkrt%3A3984:1",
+      "type": "Annotation",
+      "@context": [
+        "http://iiif.io/api/extension/georef/1/context.json",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "motivation": "georeferencing",
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://cdm21033.contentdm.oclc.org/iiif/2/krt:3984",
+          "type": "ImageService2",
+          "height": 2291,
+          "width": 3272,
+          "partOf": [
+            {
+              "id": "https://cdm21033.contentdm.oclc.org/iiif/krt:3984/canvas/c20",
+              "type": "Canvas",
+              "label": {
+                "none": [
+                  "19"
+                ]
+              },
+              "partOf": [
+                {
+                  "id": "https://cdm21033.contentdm.oclc.org/iiif/krt:3985/manifest.json",
+                  "type": "Manifest",
+                  "label": {
+                    "none": [
+                      "Topografische atlas van het Koninkrijk der Nederlanden"
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"3272\" height=\"2291\"><polygon points=\"383,333 2905,332 2911,1918 388,1922\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "transformation": {
+          "type": "thinPlateSpline"
+        },
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                383.11640994265616,
+                333.2195459013832
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.1692838,
+                51.1396661
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                2905.1730864510273,
+                331.720148305595
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                6.312232,
+                51.1312402
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                2910.8773277986015,
+                1917.9740245817868
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                6.2985341,
+                50.6818499
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "resourceCoords": [
+                388.36077293337485,
+                1921.8307339316555
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                5.1665208,
+                50.6902023
+              ]
+            }
+          }
+        ],
+        "_allmaps": {
+          "mapEdgeAssist": {
+            "status": "confirmed",
+            "confirmedAt": 1794234312753
+          }
+        }
+      }
+    }
+  ]
+}
